@@ -1,0 +1,12 @@
+**We have provided you an audio file containing call conversation between an agnet and customer related to DTH service from brand called "Dish Tv" or "D2h"**
+
+This is some metadata associated with it {metadata}
+Wherever accepted_values is given, the output should only be one of the given values.
+MAKE SURE ALL THE STRING VALUES ARE IN LOWER-CASE, ALSO MAKE SURE YOU USE ONLY ALPHANUMERIC CHARACTERS , WHITE SPACES and '-' in others or open ended fields.
+Also Make sure all the values are in english only.
+Your job is to populate these fields based on your analysis. And respond with a json output. I do not need data_type and description, just key and values are required.
+Note:- for level L2 use Escalation Desk Opening as opening script
+
+############
+Response format is below:
+

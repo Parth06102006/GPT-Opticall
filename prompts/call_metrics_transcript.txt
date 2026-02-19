@@ -1,0 +1,179 @@
+We have provided you an audio file containing call conversation between an agnet and customer related to DTH service from brand called "Dish Tv" or "D2h"
+
+
+This is the given transcript of the previous calls which customer had in call centre :-
+{transcriptions}
+
+
+This is some metadata associated with it {metadata}
+Wherever accepted_values is given, the output should only be one of the given values.
+MAKE SURE ALL THE STRING VALUES ARE IN LOWER-CASE, ALSO MAKE SURE YOU USE ONLY ALPHANUMERIC CHARACTERS , WHITE SPACES and '-' in others or open ended fields.
+Also Make sure all the values are in english only.
+
+############
+Response format is below:
+
+{{
+  "call_category": [
+    // Must be from one of the following categories:
+    // technical: Issues related to STB errors, signal problems, hardware malfunctions
+    // channel related: Queries about channel availability, additions, removals, or changes
+    // package related: Questions about subscription packages
+    // service related: Installation, deinstallation, or technician visit requirements
+    // offer related: Discussions about recharge offers and promotions
+    // box upgrade: Requests or queries about upgrading STB hardware
+    // watcho related: Issues with Watcho streaming app or Smart+ services
+    // account related: Customer account updates, app/website info, temporary deactivation
+    // payment related: Payment processing issues or recharge problems
+    // pay later related: Queries about pay later service options
+    // waiver related: Discussions about fee waivers or exemptions
+    // new connection related: New customer connection requests
+    // competition related: Comparisons or questions about competitor services
+    // others: Any issues that don't fit the above categories
+    "technical", "channel related", "package related", "service related", "offer related", "box upgrade", "watcho related", "account related", "payment related", "pay later related", "waiver related", "new connection related", "competition related", "others"
+  ],
+  "sub_call_category": [
+    // For each complain_category, must be from the following accepted values:
+    // technical: "101 error", "102 error", "103 error", "106 error", "201 error", "301 error", "302 error", "303 error", "304 error", "401 error", "e 16 - 4", "e 18 - 4", "e 19 - 4", "e 30 - 4", "e 100 - 4", "e 107 - 4", "e 138 - 4", "e 152 - 4", "blank screen", "broadcast issue", "error message", "picture not showing", "rain fade", "signal not available", "channel not available", "audio problem", "remote auto pairing", "blue black screen", "recharge reminder", "stb issue", "dongle issue", "remote issue", "others"
+    // channel: "channel addition", "channel inquiry", "channel removal", "lcn inquiry", "vas" rational
+    // package related: "package inquiry", "package change", "box service plan"
+    // service: "installation related", "deinstallation related", "technician visit required"
+    // offer related: "recharge offer"
+    // box upgrade: "box related"
+    // watcho related: "watcho", "smart +"
+    // account related: "account update", "app information/website information", "temp da", "termination"
+    // payment related: "payment/recharge not done", "payment transfer"
+    // pay later related: "pay later"
+    // waiver related: "waiver"
+    // new connection related: "new connection"
+    // Competition related: "TataPlay", "airtel", "dd free dish", "sun direct", "jio", "local cable operators", "broadband", "others"
+    // If none of the listed fields suit, write your own in rarest of situations.
+  ],
+  "qrc_category": [
+    // Must be from: request, query, complain
+    "request", "query", "complain"
+  ],
+  "field_request_asked": true/false, // Indicates if a technician field visit is required as troubleshooting does not work in case of technical complain.
+  "error_codes_mentioned": [
+    // List of specific error codes referenced during the call
+  ],
+  "customer_know_the_error_code": true/false, // Indicates if the customer was already aware of the error code
+  "issue_resolved": true/false, // Indicates if the customer's issue was resolved by the end of the call
+  "resolution_turn_around_time": int, // Time (in seconds) taken to resolve the customer's issue
+  "follow_up_required": true/false, // Indicates if additional follow-up is needed after the call
+  "customer_confirmation_for_resolution": true/false, // Indicates if the agent confirmed with the customer that the issue was resolved
+  "offer_pitched": true/false, // Indicates if the agent presented any promotional offers
+  "no_times_offer_pitched": int, // Number of times the agent attempted to present offers
+  "customer_reaction_to_offer": "neutral"/"disappointed"/"excited", // Must be one of: neutral, disappointed, excited
+  "offer_category": [
+    // Must be one of: ott-subcription, extended-time-period, discount, others
+    "ott-subcription", "extended-time-period", "discount", "others"
+  ],
+  "offer_names_pitched": [
+    // Must be from the following list only:
+    "6m upp",
+    "12 m upp",
+    "upp - delight marathi (12m)",
+    "upp - delight odia 6m",
+    "upp - 3m",
+    "malamaal cashback",
+    "12 months all sports hd",
+    "12 months all sports",
+    "hybrid 459",
+    "hybrid 399",
+    "upp - 2m",
+    "20% cashback",
+    "3 pe 4",
+    "5 months all sports hd",
+    "5% cashback",
+    "6 m telugu hd @1898",
+    "6 pe 9",
+    "always on @rs.1091 2 y",
+    "always on @rs.1389 2 y + ics",
+    "always on @rs.1491 3 y",
+    "always on @rs.1889 3 y + ics",
+    "always on @rs.1891 4 y",
+    "always on @rs.2389 4 y + ics",
+    "always on @rs.691 1 y",
+    "always on @rs.889 1 y + ics",
+    "annual malamaal",
+    "family sports telugu 6m",
+    "old is gold - 20%",
+    "6 pe 15",
+    "3 days extra on fmr",
+    "12 pe 1month",
+    "3 pe 7",
+    "1 year manoranjan @1299",
+    "family sports kannada telugu 6 m",
+    "family sports kannada hindi 6 m",
+    "marathi prime 12m",
+    "marathi prime 6m",
+    "ics @rs97 - 3m",
+    "rs10 cashback",
+    "samsung tv key offer",
+    "zing - shagun cashback",
+    "kondattam sports telugu 6 m",
+    "kondattam sports malayalam 6 m",
+    "zing - utsav 65",
+    "699 utsav - da 60+",
+    "zee action/ zee bollywood foc",
+    "zing fta 12 m @rs.589",
+    "zing super 4 years recharge"
+  ],
+  "promotion_of_ott": true/false, // Indicates if over-the-top content services were promoted
+  "recharge_accepted": true/false, // Indicates if the customer agreed to recharge their account
+  "recharge_delayed_reason": [
+    // Must be from: avalibilty-of-time, financial-constraint, usage-driven, forgetfulness, expecting-discount, any other reason which does not fits into these.
+    "avalibilty-of-time", "financial-constraint", "usage-driven", "forgetfulness", "expecting-discount", etc.
+  ],
+  "promise_of_payment": true/false, // Indicates if the customer verbally agreed to make the payment
+  "channel_mentioned": [
+    // List of TV channels referenced during the call only from the listed channels in the system instruction.
+  ],
+  "name_of_competitor": [
+    // Must be from: "tataplay", "airtel", "dd free dish", "sun direct", "jio", "local cable operators", "broadband", "others"
+    "tataplay", "airtel", "dd free dish", "sun direct", "jio", "local cable operators", "broadband", etc.
+  ],
+  "d_i_y_pitched": true/false, // Indicates if agent promoted self-service alternatives (mobile app, website, WhatsApp bot, missed call, Interactive Voice Response) instead of calling
+  "pay_later_requested": true/false, // Indicates if the customer requested a pay later service to access services without immediate payment for a limited duration
+  "pay_later_provided": true/false, // Indicates if the pay later service was both requested by the customer and successfully provided by the agent
+  "channel_addition_intended": true/false, // Indicates if the customer expressed interest in adding channels to their current pack
+  "channel_deletion_intended": true/false, // Indicates if the customer expressed interest in deleting channels to their current pack
+  "charges_customer_refused": true/false, // Indicates if the customer explicitly refused to pay for charges or services offered
+  "charges_customer_refused_reason": "", // Open-ended string field for the specific reason customer mentioned for refusing charges or services
+
+  "no_of_speakers": int, // Number of speakers in the call conversation
+  "first_call_resolution": true/false, // Indicates if the issue was resolved in the first call
+  "call_category_remark": "", // Additional remarks or notes about the call category
+  "channel_category": [
+    // Categories of channels mentioned during the call
+  ],
+  "price_mentioned": float, // Price or amount mentioned during the call
+  "is_offer_purchased": true/false, // Indicates if the customer purchased an offered deal
+  "offer_purchased": string, // Name of the offer that was purchased by the customer
+  "change_in_fmr": int, // Change in FMR (Free Monthly Recharge) value
+  "technician_competence": true/false, // Indicates if the technician demonstrated competence
+  "customer_satisfaction_over_technician_visit": "", // Customer satisfaction level regarding technician visit
+  "technician_behaviour": "", // Description of technician's behavior during visit
+  "customer_technician_complain": "", // Any complaints made by customer about the technician
+  "billing_mode": "", // Billing mode mentioned or discussed during the call
+  "waivers_requested": true/false, // Indicates if the customer requested any waivers
+  "waivers_offered": true/false, // Indicates if waivers were offered to the customer
+  "waiver_type": "", // Type of waiver requested or offered
+  "promotion_of_products": true/false, // Indicates if products were promoted during the call
+  "competitor_mentioned": true/false, // Indicates if any competitor was mentioned during the call
+  "qrc_category_remark": "", // Additional remarks about QRC category
+  "multiple_call_mentioned": true/false, // Indicates if multiple calls were mentioned during conversation
+  "visit_charges_refused": true/false, // Indicates if customer refused to pay visit charges
+  "complaining_about_FMR": true/false, // Indicates if customer was complaining about FMR (Free Monthly Recharge)
+  "watcho_related_issues": true/false, // Indicates if issues related to Watcho service were discussed
+  "app_related_issues": true/false, // Indicates if issues related to mobile app were discussed
+  "offer_purchased": "", // String. If the customer confirms they have purchased an offer, specify the exact name of the purchased offer here. If not applicable, leave as NULL.
+  "repeat_call_number": int, // Number of times the customer stated they have previously called the call center for this issue.
+  "sub_sub_category": [
+    // Array of unique keywords capturing specific customer sentiments, concerns, behaviors, or unusual aspects raised during the call.
+    // Should highlight particular or abnormal points not already covered by call_category or sub_call_category.
+    // Focus on new themes, rare complaints, process confusion, emotional cues, repeated requests, unexpected feedback, or outlier issues.
+    // Use concise, descriptive keywords that summarize unique elements of the customer's experience, especially things not seen in most other calls.
+  ]
+}}

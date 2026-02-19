@@ -1,0 +1,277 @@
+**Sentiment Classification Guidelines:**
+
+**Negative Sentiment:** Customer exhibits clear signs of dissatisfaction including:
+- Anger, frustration, or irritation in their voice
+- Loud, aggressive, or hostile tone
+- Complaints, criticism, or expressions of disappointment
+- Impatience or annoyance with the service or resolution
+- Threatening language or demands for escalation
+
+**Important:** Negative sentiment should only be applied in cases of extreme and adverse conditions like verbal spat. You need to remain lenient while evaluating the sentiment, giving customers the benefit of the doubt when their emotional state is ambiguous.
+
+**Neutral Sentiment:** Customer maintains an emotionally balanced interaction:
+- Professional, matter-of-fact tone without strong emotional indicators
+- Calm and composed demeanor throughout the conversation
+- Neither particularly satisfied nor dissatisfied
+- Focused on information exchange without emotional investment
+
+**Positive Sentiment:** Customer demonstrates satisfaction and contentment:
+- Warm, friendly, and appreciative tone
+- Expressions of gratitude or satisfaction with the service
+- Cooperative and pleasant interaction style
+- Positive feedback or compliments about the resolution or agent
+- Overall satisfied demeanor with the conversation outcome
+
+
+**Role Definitions for Customer Profiling:**
+
+**Agent:** A person representing the brand who plays a central role in providing service to the customer. Agents interact with chief technicians or technicians to arrange on-ground service and serve as the primary point of contact for customer inquiries and issue resolution.
+
+**Customer:** A person who contacts the call center seeking to resolve an issue, make an inquiry, or receive service support for their account or connection.
+
+**Technician:** A person representing the brand who provides on-ground service to resolve customer issues. Technicians are responsible for physical service delivery, installations, repairs, and technical support at customer locations.
+
+**Chief Technician:** A senior technician who manages other technicians and coordinates between customers and agents. Chief technicians handle complex technical issues and oversee field service operations.
+
+**Senior Agent:** A person representing the brand who provides escalated assistance when the current agent is unable to resolve the customer's issue. Calls are typically transferred to senior agents for complex cases requiring additional expertise or authority.
+
+**Recorded Audio:** Any pre-recorded audio content in the call, including music, songs, caller tunes, ring tones, background music, voice mail messages, or automated announcements.
+
+**Additional Participants:** When additional participants join the call, they should be identified as senior agent, technician, chief technician, or other call center personnel based on their role and context in the conversation.
+
+
+
+**Escalation policy**
+Connection Termination Rquest call transfer to L2
+If channel removal within Locking period then call transfer to L2
+Customer Directly asked to transfer the call to L2 desk without informing the concern
+TAT is over but complaint still not resolved and in Forwarded status
+Customer want waiver due to offer not credited/billing dispute and connection is active
+Customer want service visit in FOC and is not eligible but adment 
+Call disconnected during conversation in L2 call then call back will be arranged by L2
+Watcho Complaints call like connection recharge but OTT is not working
+IVR No Response
+Language Transfer to different skill set
+
+
+**Turn Around time timelines**
+⏱️ TAT – 0 to 15 Minutes
+·         Ala-Carte / VAS Activation & Deletion (only on customer ask)
+·         ADD-ON / Bouquet Activation & Deletion (only on customer ask)
+·         PACK Upgrade & Downgrade (only on customer ask)
+·         Call ME Service 
+⏱️ TAT – 1 Hour
+·         Service Appointment Booking (#)
+·         Case sent to Backend/Billing Team ( Billing Rectification)
+·         Call Back from Prospective / Sales Desk (*)
+·         Waiver Request
+⏱️ TAT – 24 Hours
+·         Delayed payment posting or other dealer-related issues (DNE)
+·         Service Visit Request - Signal cases/Alignment/Box Faulty/Dismantle/Relocation/New Connnection Installation
+·         All Online Payment Reconciliation ( Payment Updation cases/ Payment Transfer/Third Party payment)
+
+
+
+**For proactively sharing these are the scenarios**
+ProactiveInformationFlow:
+  - Scenario: "Pay Later"
+    Message: |
+      Sir/Ma'am, in future you can activate Pay Later service by giving a missed call from your registered number.
+      📞 18002749050 (Dish) / 1800-170-0333 (D2h)
+
+  - Scenario: "102/101 Error (Dish) or E-16-4/E-18-4 (D2h)"
+    Message: |
+      Sir/Ma'am, if you face 101/102 or E-16-4/E-18-4 error, you can refresh your set-top box by giving a missed call from your registered number.
+      📞 18002702102 (Dish) / 1800-170-0777 (D2h)
+      (Please keep your set-top box switched ON while giving the missed call.)
+
+  - Scenario: "Account Related Information"
+    Message: |
+      Sir/Ma'am, in future you can get account details like Balance, Due Date, Customer ID, Subscription Amount, Last Recharge, or Pack Info by giving a missed call.
+      📞 18002749000 (Dish) / 1800-170-0444 (D2h)
+
+  - Scenario: "Channel Activation"
+    Message: |
+      Sir/Ma'am, to activate your desired channel, please tune to that channel on your TV and give a missed call to the number shown on screen from your registered mobile number.
+      Your channel will activate within 15 minutes. Please keep your STB ON.
+      You can also check the updated ‘Switch Off Date’ in the ‘My Account’ section.
+
+  - Scenario: "Mobile App Promotion - Eligible for Cashback"
+    Message: |
+      Sir/Ma'am, you can now manage your Dish TV account, check recharge offers, modify your pack, or refresh your account through our mobile app.
+      Download My DishTV Smart+ App from Play Store/App Store and get ₹10 cashback on your first recharge.
+      (Eligible customers for ₹10 cashback.)
+
+  - Scenario: "Mobile App Promotion - Not Eligible for Cashback"
+    Message: |
+      Sir/Ma'am, you can now manage your Dish TV account, check recharge offers, modify your pack, or refresh your account through our mobile app.
+      Download My DishTV Smart+ App from Play Store/App Store to view your current recharge offer details.
+      (Not eligible for cashback.)
+
+  - Scenario: "Non-Complaint Calls - WhatsApp Chatbot"
+    Message: |
+      In future, you can use our WhatsApp Chatbot for adding/deleting channels, modifying packages, and more.
+      A link has been sent to your registered number — click to access the Chatbot.
+      📞 9953060680 (Dish) / 8750917917 (D2h)
+
+  - Scenario: "Recharge Offer Information"
+    Message: |
+      Sir/Ma'am, I have also sent the same information to your registered mobile number via SMS.
+
+  - Scenario: "In DA Account"
+    Message: |
+      Sir/Ma'am, please keep your set-top box switched ON while recharging.
+
+
+**Probing suggested flow**
+CustomerInteractionFlow:
+  - Category: "Technical Issue"
+    Reason: "Customer is unable to view the Channels"
+    Message: |
+      “Sir/Ma’am, could you please tell me the error code, color code, or message that’s coming on your TV screen?”
+
+  - Category: "New Connection"
+    Reason: "Customer wants to purchase new connection or wants to know about new connection details"
+    Message: |
+      “May I know which type of connection you are looking for — HD, Multi-TV, or Android box?”
+
+  - Category: "Payment Updation"
+    Reason: "Recharge not updated on CRM"
+    Message: |
+      “Could you confirm how you did the recharge — through dealer or online?”
+
+  - Category: "Package Change"
+    Reason: "Customer wants to move from DRC to MYOP or MYOP to DRC"
+    Message: |
+      “May I know which category of channels you are interested in — Sports, Entertainment, or OTT?”
+
+  - Category: "Channel Not in the List"
+    Reason: "Channels are getting skipped from the list"
+    Message: |
+      “Can you please share the channel names which are getting skipped?”
+
+  - Category: "Offer Related"
+    Reason: "Customer is looking for recharge offer"
+    Message: |
+      “Are you looking for a long-term recharge offer or a short-term one?”
+
+  - Category: "Not Recharge - Connection DA"
+    Reason: "Customer has not recharged DTH connection and called customer care"
+    Message: |
+      “May I know the reason why you haven’t recharged your connection yet?”
+
+  - Category: "Remote Issue"
+    Reason: "Remote is not working or buttons are not responding"
+    Message: |
+      “Have you tried replacing the batteries or checking if the remote is paired with your box?”
+
+  - Category: "Signal Issue / 301 Error"
+    Reason: "Customer is facing ‘No Signal’ issue on TV"
+    Message: |
+      “How is the weather condition in your location, or did you check whether your Set Top Box is properly connected with wires?”
+
+  - Category: "Wrong Recharge"
+    Reason: "Customer has recharged the wrong VC number or amount"
+    Message: |
+      “Can you please share the VC number and transaction ID you used for the recharge?”
+
+  - Category: "STB Not Powering On"
+    Reason: "Set-top box is not switching on"
+    Message: |
+      “Is the power light blinking or completely off? Have you tried reconnecting the adapter?”
+
+  - Category: "Channel Not Subscribed / 101 Error"
+    Reason: "Customer is unable to view a subscribed channel"
+    Message: |
+      “Could you tell me the channel name you’re not able to watch and if it’s part of your package?”
+
+  - Category: "Multi-TV Issue"
+    Reason: "Customer is facing issue with Multi-TV connection"
+    Message: |
+      “Which TV is showing the problem — the main one (Parent) or the secondary (Child)? And what error code is displayed on the TV screen?”
+
+  - Category: "Card Pairing Error / 201 Error"
+    Reason: "Customer sees ‘Card not paired’ or ‘Insert Smart Card’ message"
+    Message: |
+      “Could you please check if the Smart Card or Viewing Card is inserted properly in the set-top box?”
+
+  - Category: "Sound Issue / Voice Issue on Channel"
+    Reason: "TV picture is coming but no sound"
+    Message: |
+      “Is the sound missing on all channels or only specific ones?”
+
+  - Category: "HD Upgrade Request"
+    Reason: "Customer wants to upgrade SD box to HD"
+    Message: |
+      “May I know your VC number so I can check if your connection is eligible for HD upgrade?”
+
+  - Category: "OTT / Watcho App Issue"
+    Reason: "Customer unable to login or stream content on Watcho app"
+    Message: |
+      “Are you using the latest version of the Watcho app and is your internet working properly?”
+
+  - Category: "Language Change Request"
+    Reason: "Customer wants regional / audio language change in channels"
+    Message: |
+      “On which channel would you like to change the audio language and in which language?”
+
+  - Category: "Temporary Deactivation Request"
+    Reason: "Customer wants to temporarily deactivate the connection"
+    Message: |
+      “For how many days would you like to keep the connection temporarily deactivated?”
+
+  - Category: "Minimum Recharge Value"
+    Reason: "Customer asking about minimum recharge value or amount"
+    Message: |
+      “Minimum recharge amount Rs. 200 is required.”
+
+**Hold means playing music with recorded audio like your call is put on hold.**
+Make sure if some said I am putting you hold does not meant that hold is used, it should be consided the music plays.
+
+
+{{
+  "agent_opening_within_5_sec": true/false, // Check if the opening call script was fully delivered within the first 5 seconds of the call (timestamp range: 0–5s).
+  "agent_used_opening_script": true/false, // Was the correct Opening script used on call? Note: Escalation Desk Opening is also valid. Also make sure name of the agent is also present into it.
+  "agent_used_brand_name": true/false, // Did the agent use brand name while opening the call?
+  "agent_used_closing_script": true/false/null, // Mark as "true" if the agent delivered the correct closing script at the strict end of the call. Use "false" if the agent did not provide the required closing script, even when there was an opportunity to do so. If the call ended abruptly (e.g., customer disconnected) and there was genuinely no opportunity for the agent to close, use "null". Assess carefully and mark false in extreme situations only.
+  "agent_used_further_assistance_script": true/false/null, // Mark "true" if the agent delivered the correct further assistance script at the end of the call, asking if the customer needed any other help or further assistance. Use "false" if the agent did not provide this script when there was a clear opportunity to do so. If the call ended so abruptly that there was genuinely no chance for the agent to say it, use "null". Evaluate in context—use false only in clear cases of omission.
+  "agent_used_correct_hold_script": true/false, // Was the correct hold script used on call? (Only applicable for calls where call was put on hold, if hold count is >0)
+  "agent_explained_issue_to_l2": true/false, // Did the agent explain the customer issue effectively to L2 associates? 
+  "agent_followed_escalation_policy": true/false, // Was the call transferred correctly following the escalation policy?
+  "agent_attentive_throughout": true/false, // Was the agent attentive throughout the call? This means the agent did NOT make the customer repeat their answers, statements, or concerns unnecessarily, showing they were actively listening and understanding.
+  "agent_probing_logical_and_correct": true/false, // Was there correct and logical probing done by the agent to identify the issue? only where applicable
+  "agent_allowed_customer_to_complete": true/false, // Did the agent allow the customer to complete their statements without interrupting, controlling, or forcefully stopping them while they were explaining their point? The agent should not dominate or disturb the customer's flow of communication.
+  "agent_used_jargon": true/false, // Did the agent use any jargon on the call?
+  "agent_spoke_in_customer_language": true/false, // Did the agent interact in customer's language?
+  "agent_fumbled_or_stammered": true/false, // Was there any instance of fumbling or stammering in call?
+  "agent_shared_proactive_info": true/false/null, // Did the agent proactively share relevant information such as do-it-yourself steps like WhatsApp chatbot, special numbers for dedicated issues, suggestions and SOPs to follow while using service, etc.?
+  "customer_experience_sentiment": "positive"/"negative"/"neutral" // Did the customer experience seem positive, negative or neutral? Must be one of: positive, negative, neutral
+  "agent_pitched_csat": true/false, // Did the agent pitch for CSAT survey?
+  "agent_verified_customer_details": true/false/null, // Did the agent clearly confirm the customer's identity by actively asking for and validating personal details such as VC number, mobile number, full name, or account information? Mark "true" only if the agent explicitly asks for and either repeats back or otherwise confirms these customer-specific details with accuracy. Mark "false" if the agent should have verified identity (i.e., customer was making a request, complaint, or inquiry unique to their account) but did not do so. Use "null" if identity verification was not applicable (for example, if the customer was asking only general, non-account-specific questions, or was inquiring about new connection/product info only).
+  "agent_verified_customer_details_reason": "", // If 'agent_verified_customer_details' is false, briefly state the reason (e.g., "Agent did not request customer account details"). If true or null, leave blank.
+  "agent_ensured_warm_transfer": true/false, // Did the agent ensure a warm transfer instead of a blind transfer? (only applicable for calls being transferred, so give null)
+  "agent_ensured_warm_transfer_reason": "", // Only fill if 'agent_ensured_warm_transfer' is false: specify the missed step if known (e.g., "Agent transferred without speaking to L2 first"). Leave blank otherwise.
+  "agent_used_absurd_or_abusive_language": true/false, // Was there any instance of the agent using any absurd/abusive/sarcastic word? (Only true in very extreme cases with certain degree of confidence.)
+  "agent_used_absurd_or_abusive_language_reason": "", // If true, cite the specific word(s) or phrase(s) used by the agent (e.g., "Agent called customer 'idiot'"), if false leave blank.
+  "agent_tone_type": true/false, // Answer true if the agent's tone matches any of these types: robotic, ordering, conditional, or casual; otherwise, answer false.
+  "agent_tone_type_reason": "", // If true, state which tone type was present and example if possible (e.g., "Agent spoke in a robotic tone when explaining recharge process"); leave blank otherwise.
+  "agent_communicated_tat": true/false/null, 
+  // true: Agent clearly told the customer a specific turnaround time (TAT), estimated time, or next steps for resolution, either proactively or when asked.
+  // false: ONLY use false if the customer explicitly asked for TAT, estimated time, or next steps, AND the agent did not communicate or respond to this request. Do not use false if the customer did not ask for TAT.
+  // Only use true/false if the issue matches the eligible TAT scenarios listed above (activation/deletion, pack change, service booking, billing, waiver, payment, signal, installation, etc.).
+  // Use null if TAT does not apply (for example, in cases like bad weather due to raining, dense cloud or when there is no waiting period or follow-up process), or if the customer did not ask for TAT and the agent did not proactively communicate it (in which case it's not a failure).
+  "agent_communicated_tat_reason": "", // Only fill this if agent_communicated_tat is false: specify that the agent missed giving TAT after the customer asked. Leave blank if true or null.
+  "overall_customer_sentiment": "positive"/"negative"/"neutral", // The customer's dominant emotional state throughout the entire call based solely on their voice tone, language, and expressions - not influenced by agent performance or call outcome
+  "initial_customer_sentiment": "positive"/"negative"/"neutral", // The customer's emotional state when they first speak on the call, reflecting their initial mood and expectations
+  "closure_customer_sentiment": "positive"/"negative"/"neutral" // The customer's final emotional state at the end of the call, indicating how they felt when concluding the conversation
+  // "Hold" should only be counted when there is audible hold music or pre-recorded hold messages played to the customer.
+  // Do NOT count as "hold" if the agent simply says "I am putting you on hold"—there must be real hold audio/music playing for any duration to be included.
+  "agent_excessive_hold_duration": true/false, // Was there hold duration at particular interval is more than 51 seconds during the call?
+  "no_of_call_holds": int, // The total number of times the customer was actually placed on hold (i.e., periods where the customer heard hold music or pre-recorded hold announcements). 
+  "total_hold_duration": int, // Total cumulative seconds the customer actually spent on hold during the call.
+  "dead_air": true/false, // Indicates if there were periods of dead air (no sound) in the call
+  "duration_dead_air": int, // Total duration of dead air in seconds
+  "call_dropped": true/false, // Indicates if the call was dropped/disconnected unexpectedly at the end of the call.
+  "customer_voc": "", // String. Write a one line summary of the so that some senior can use it to analysis what happenend in the call.
+  "closure_timeline": "", // String. try to write the timeline of closure said by the agent only if it is said else make it null.
+}}
