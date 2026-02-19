@@ -1,0 +1,365 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469949787485697.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:01.236",
+        "end": "00:08.736",
+        "text": "Hello, welcome to Dish TV. My name is Khushboo. How can I assist you today?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:20.186",
+        "end": "00:24.686",
+        "text": "You are not getting any signal, right? Is your line also down?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:25.786",
+        "end": "00:26.236",
+        "text": "Huh?",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:28.724",
+        "end": "00:33.924",
+        "text": "Yes, I am asking how can I help you?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:35.924",
+        "end": "00:38.424",
+        "text": "The channel number is not coming on your screen.",
+        "speaker": "technician"
+      },
+      {
+        "start": "00:40.674",
+        "end": "00:46.874",
+        "text": "For the service, please provide the correct code.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:49.124",
+        "end": "00:50.674",
+        "text": "I will check with the team.",
+        "speaker": "technician"
+      },
+      {
+        "start": "00:52.624",
+        "end": "00:53.524",
+        "text": "Please hold on.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:54.388",
+        "end": "00:59.338",
+        "text": "I am transferring your call to the supervisor.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:03.788",
+        "end": "01:06.088",
+        "text": "Hello, I am your supervisor. How can I assist you?",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "01:06.788",
+        "end": "01:19.588",
+        "text": "Sir, the channel number 306 is not coming. It is showing that the signal is weak.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:21.236",
+        "end": "01:23.336",
+        "text": "It is showing that your signal is weak.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "01:24.036",
+        "end": "01:25.436",
+        "text": "606 is the number.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:26.036",
+        "end": "01:31.986",
+        "text": "The channel number is showing that there is no signal.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "01:33.604",
+        "end": "01:38.104",
+        "text": "The weather is bad, something is wrong, and it is showing that.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:38.104",
+        "end": "01:38.604",
+        "text": "Yes.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "01:38.604",
+        "end": "01:38.904",
+        "text": "If.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:38.904",
+        "end": "01:42.054",
+        "text": "The signal is weak.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "01:43.754",
+        "end": "01:44.804",
+        "text": "The weather is bad.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:45.854",
+        "end": "01:48.454",
+        "text": "The weather is clear, but there are other issues.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:48.754",
+        "end": "02:00.854",
+        "text": "The channel is not coming, and it is showing that there is no signal.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "02:01.284",
+        "end": "02:01.684",
+        "text": "So,",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "02:01.734",
+        "end": "02:15.734",
+        "text": "Your connection is not eligible for the service. Please check your eligibility.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "02:15.784",
+        "end": "02:22.734",
+        "text": "The connection is not eligible for the service.",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:23.396",
+        "end": "02:40.896",
+        "text": "The connection is not eligible for the service. Please check your eligibility.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "02:40.896",
+        "end": "02:40.946",
+        "text": "Okay.",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:40.946",
+        "end": "02:41.246",
+        "text": "It is.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "02:41.246",
+        "end": "02:41.896",
+        "text": "72.",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:41.896",
+        "end": "02:46.296",
+        "text": "Today, the connection is not working.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "02:47.696",
+        "end": "02:49.146",
+        "text": "The connection is not working.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "03:00.000",
+        "end": "03:01.000",
+        "text": "Can you tell me about the number plate?",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:02.550",
+        "end": "03:02.800",
+        "text": "Okay.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:03.450",
+        "end": "03:04.250",
+        "text": "Then we see number,",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:04.350",
+        "end": "03:05.000",
+        "text": "then start it again.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:06.600",
+        "end": "03:07.150",
+        "text": "Sorry,",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:07.250",
+        "end": "03:07.500",
+        "text": "second.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:08.000",
+        "end": "03:09.500",
+        "text": "Let me complete my whole life.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:09.550",
+        "end": "03:10.000",
+        "text": "One minute.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:10.500",
+        "end": "03:11.050",
+        "text": "Then here.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:20.550",
+        "end": "03:23.900",
+        "text": "The VC number is 025630.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:23.900",
+        "end": "03:24.250",
+        "text": "025.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:27.124",
+        "end": "03:28.424",
+        "text": "IRS 149.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:28.874",
+        "end": "03:30.974",
+        "text": "IRS plate number is",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:30.974",
+        "end": "03:31.974",
+        "text": "A5,",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:32.774",
+        "end": "03:33.474",
+        "text": "A5",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:34.174",
+        "end": "03:36.924",
+        "text": "public 5001, 5001,",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:37.574",
+        "end": "03:40.924",
+        "text": "structural engineering merit near Srijan Mandir School,",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:41.524",
+        "end": "03:43.324",
+        "text": "your pin code is",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:43.324",
+        "end": "03:44.824",
+        "text": "253004.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:46.174",
+        "end": "03:48.774",
+        "text": "the number is the same as this, you can call it alternate number.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:49.824",
+        "end": "03:52.874",
+        "text": "and 10 is bigger than 9456.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:53.428",
+        "end": "03:55.128",
+        "text": "9456 056",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:55.128",
+        "end": "03:57.378",
+        "text": "056 909",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:02.778",
+        "end": "04:08.128",
+        "text": "our service team will call you after 9 o'clock and will get you connected.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:09.652",
+        "end": "04:14.702",
+        "text": "it is okay, but the number will be in my setup box.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:14.752",
+        "end": "04:23.402",
+        "text": "if any spare part is needed or if there is any issue, it will be charged, but the technician will not charge you.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:23.402",
+        "end": "04:24.602",
+        "text": "it is okay.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:25.202",
+        "end": "04:27.802",
+        "text": "okay, service is not calling me.",
+        "speaker": "agent"
+      }
+    ]
+  },
+  "call_summary": "The customer inquired about their number plate and provided details while the agent assisted with the information and next steps.",
+  "issue_resolved": "partial",
+  "speakers_identified": [
+    "agent",
+    "customer"
+  ],
+  "language_used": "English",
+  "sentiment": "neutral",
+  "total_segments": 40,
+  "processing_time_seconds": 161.74
+}

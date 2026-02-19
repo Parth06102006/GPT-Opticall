@@ -1,0 +1,382 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469949804060885.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:01.716",
+        "end": "00:09.266",
+        "text": "Greetings, this is a welcome to your TV. My name is Khushboo. How can I assist you?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:16.866",
+        "end": "00:17.416",
+        "text": "Hello?",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:18.666",
+        "end": "00:21.916",
+        "text": "Yes, yes, how are you?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:22.216",
+        "end": "00:24.266",
+        "text": "How can I assist you?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:27.220",
+        "end": "00:28.520",
+        "text": "It's a funny number to know.",
+        "speaker": "technician"
+      },
+      {
+        "start": "00:29.670",
+        "end": "00:30.520",
+        "text": "That's right.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:31.870",
+        "end": "00:46.620",
+        "text": "Please proceed, we are currently working on the signal. Your account is linked to channel number 105. Is there any issue with your subscription?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:51.316",
+        "end": "00:56.716",
+        "text": "I am currently trying to transfer your call to the complete service team.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:58.966",
+        "end": "01:01.016",
+        "text": "Greetings, how can I help you?",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:01.916",
+        "end": "01:04.166",
+        "text": "Hello sir.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:06.416",
+        "end": "01:08.016",
+        "text": "Question.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:08.066",
+        "end": "01:11.416",
+        "text": "125 number activation is required.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:11.416",
+        "end": "01:18.066",
+        "text": "Which name is registered under your account? Your name is required for the activation.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:18.708",
+        "end": "02:32.058",
+        "text": "Previously, the channel activation was done, but now the channel is not working. Please provide the number for the activation.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "02:33.308",
+        "end": "02:33.858",
+        "text": "Sorry,",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:33.958",
+        "end": "02:37.508",
+        "text": "I have a call from a company Hello,",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:37.708",
+        "end": "02:45.308",
+        "text": "Please do not provide any unnecessary information, we are not able to provide the required service.",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:46.836",
+        "end": "02:49.186",
+        "text": "The service is available for your account.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "02:50.336",
+        "end": "02:53.336",
+        "text": "Sir, I am trying to activate your account.",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:55.136",
+        "end": "02:59.936",
+        "text": "Sir, my account is showing that it is a 99 activation.",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:00.000",
+        "end": "02:13.100",
+        "text": "Hello, and this is your Dish TV service. There is a problem with your connection.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:13.100",
+        "end": "02:25.650",
+        "text": "Sir, your package is 30 channels for ₹90. The package has been activated. The additional channel is ₹60.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:26.388",
+        "end": "02:26.788",
+        "text": "Yes.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:26.788",
+        "end": "02:28.288",
+        "text": "Your package has been activated.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:29.488",
+        "end": "02:44.588",
+        "text": "I am trying to check the channels. There is a problem with the signal. Please check the connection.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:45.588",
+        "end": "02:51.838",
+        "text": "The package is ₹99. The channel is not working. Please check the connection.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:52.788",
+        "end": "02:56.588",
+        "text": "Please check the signal.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:56.788",
+        "end": "02:58.388",
+        "text": "This is a free-to-air channel.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:58.438",
+        "end": "03:00.088",
+        "text": "There are 250 channels available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:00.138",
+        "end": "03:01.338",
+        "text": "These are movies.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:01.438",
+        "end": "03:02.288",
+        "text": "Entertainment channels.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:02.438",
+        "end": "03:03.438",
+        "text": "News channels.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:03.488",
+        "end": "03:05.088",
+        "text": "Music channels are also available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:05.138",
+        "end": "03:06.538",
+        "text": "These are free-to-air channels.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:07.188",
+        "end": "03:09.088",
+        "text": "Please check the signal.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:09.888",
+        "end": "03:11.588",
+        "text": "Yes, the freedom package has been activated.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:13.838",
+        "end": "03:16.938",
+        "text": "The channel is not working. Please check the connection.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:18.164",
+        "end": "03:32.214",
+        "text": "The connection is not working. Please check the signal. The channels are not available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:34.064",
+        "end": "03:35.364",
+        "text": "Please check the signal.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:35.714",
+        "end": "03:45.464",
+        "text": "The Dish TV service is available. Please check the connection.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:45.972",
+        "end": "03:50.072",
+        "text": "If you want to activate the service, please check the connection.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:50.722",
+        "end": "03:59.272",
+        "text": "The service is available. Please check the connection.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:01.050",
+        "end": "04:02.000",
+        "text": "Keep yourself thinking.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:02.600",
+        "end": "04:08.350",
+        "text": "The installation of the setup has been done. I am the one who is providing the information.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:08.500",
+        "end": "04:10.600",
+        "text": "After this call, you will also get a message.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:10.950",
+        "end": "04:14.050",
+        "text": "In which you can also find a package.",
+        "speaker": "customer"
+      }
+    ]
+  },
+  "agent_opening_within_5_sec": true,
+  "agent_used_opening_script": false,
+  "agent_used_brand_name": false,
+  "agent_used_closing_script": null,
+  "agent_used_further_assistance_script": null,
+  "agent_used_correct_hold_script": false,
+  "agent_explained_issue_to_l2": false,
+  "agent_followed_escalation_policy": false,
+  "agent_attentive_throughout": true,
+  "agent_probing_logical_and_correct": false,
+  "agent_allowed_customer_to_complete": true,
+  "agent_used_jargon": false,
+  "agent_spoke_in_customer_language": true,
+  "agent_fumbled_or_stammered": false,
+  "agent_shared_proactive_info": false,
+  "customer_experience_sentiment": "neutral",
+  "agent_pitched_csat": false,
+  "agent_verified_customer_details": false,
+  "agent_verified_customer_details_reason": "Agent did not request customer account details",
+  "agent_ensured_warm_transfer": null,
+  "agent_ensured_warm_transfer_reason": "",
+  "agent_used_absurd_or_abusive_language": false,
+  "agent_used_absurd_or_abusive_language_reason": "",
+  "agent_tone_type": false,
+  "agent_tone_type_reason": "",
+  "agent_communicated_tat": null,
+  "agent_communicated_tat_reason": "",
+  "overall_customer_sentiment": "neutral",
+  "initial_customer_sentiment": "neutral",
+  "closure_customer_sentiment": "neutral",
+  "agent_excessive_hold_duration": false,
+  "no_of_call_holds": 0,
+  "total_hold_duration": 0,
+  "dead_air": false,
+  "duration_dead_air": 0,
+  "call_dropped": false,
+  "customer_voc": "Customer provided information about the installation and expected a follow-up message.",
+  "closure_timeline": null,
+  "call_category": [
+    "service related"
+  ],
+  "sub_call_category": [
+    "installation related"
+  ],
+  "qrc_category": [
+    "request"
+  ],
+  "field_request_asked": false,
+  "error_codes_mentioned": [],
+  "customer_know_the_error_code": false,
+  "issue_resolved": false,
+  "resolution_turn_around_time": 0,
+  "follow_up_required": false,
+  "customer_confirmation_for_resolution": false,
+  "offer_pitched": false,
+  "no_times_offer_pitched": 0,
+  "customer_reaction_to_offer": "neutral",
+  "offer_category": [],
+  "offer_names_pitched": [],
+  "promotion_of_ott": false,
+  "recharge_accepted": false,
+  "recharge_delayed_reason": [],
+  "promise_of_payment": false,
+  "channel_mentioned": [],
+  "name_of_competitor": [],
+  "d_i_y_pitched": false,
+  "pay_later_requested": false,
+  "pay_later_provided": false,
+  "channel_addition_intended": false,
+  "channel_deletion_intended": false,
+  "charges_customer_refused": false,
+  "charges_customer_refused_reason": "",
+  "no_of_speakers": 2,
+  "first_call_resolution": false,
+  "call_category_remark": "",
+  "channel_category": [],
+  "price_mentioned": 0.0,
+  "is_offer_purchased": false,
+  "offer_purchased": null,
+  "change_in_fmr": 0,
+  "technician_competence": false,
+  "customer_satisfaction_over_technician_visit": "",
+  "technician_behaviour": "",
+  "customer_technician_complain": "",
+  "billing_mode": "",
+  "waivers_requested": false,
+  "waivers_offered": false,
+  "waiver_type": "",
+  "promotion_of_products": false,
+  "competitor_mentioned": false,
+  "qrc_category_remark": "",
+  "multiple_call_mentioned": false,
+  "visit_charges_refused": false,
+  "complaining_about_FMR": false,
+  "watcho_related_issues": false,
+  "app_related_issues": false,
+  "repeat_call_number": 0,
+  "sub_sub_category": [],
+  "processing_time_seconds": 154.82
+}

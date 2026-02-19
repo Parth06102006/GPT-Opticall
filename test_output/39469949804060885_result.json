@@ -1,0 +1,323 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469949804060885.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:01.716",
+        "end": "00:02.566",
+        "text": "Greetings,",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:02.616",
+        "end": "00:06.766",
+        "text": "This is a welcome to your TV. My name is Khushboo.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:07.166",
+        "end": "00:09.166",
+        "text": "How can I assist you today?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:16.816",
+        "end": "00:17.366",
+        "text": "Hello.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:18.866",
+        "end": "00:19.316",
+        "text": "Yes,",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:20.266",
+        "end": "00:21.766",
+        "text": "Yes, how are you?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:22.216",
+        "end": "00:24.116",
+        "text": "How can I assist you today?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:27.220",
+        "end": "00:28.570",
+        "text": "It's a party number to know.",
+        "speaker": "technician"
+      },
+      {
+        "start": "00:29.720",
+        "end": "00:31.120",
+        "text": "That's correct.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:31.870",
+        "end": "00:46.620",
+        "text": "We are currently working on the connectivity issue. Your account is linked to channel number one, and we are trying to activate it for you. Can you please provide the details?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:51.316",
+        "end": "00:57.016",
+        "text": "I am trying to transfer your call to the appropriate department.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:59.266",
+        "end": "01:01.016",
+        "text": "Hello, is this the right connection?",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "01:01.916",
+        "end": "01:02.416",
+        "text": "Hello?",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:02.916",
+        "end": "01:03.616",
+        "text": "Yes, I am here.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "01:06.216",
+        "end": "01:06.866",
+        "text": "Connection.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "01:07.316",
+        "end": "01:08.066",
+        "text": "Sir,",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:08.116",
+        "end": "01:09.866",
+        "text": "The 125 number is activated.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:11.216",
+        "end": "01:13.416",
+        "text": "Which name is registered with your number?",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "01:13.416",
+        "end": "01:14.316",
+        "text": "Gurdev Bhai.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:15.716",
+        "end": "01:18.016",
+        "text": "For activation, please stop activating on that person's number with DB3 here.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "01:18.708",
+        "end": "01:22.758",
+        "text": "Then you can provide the missed call number for them.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "01:22.908",
+        "end": "01:24.858",
+        "text": "Register one number to this number to give a missed call.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "01:25.408",
+        "end": "01:27.808",
+        "text": "If there is no setup, please contact us.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "01:27.958",
+        "end": "01:28.958",
+        "text": "Sorry,",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:29.958",
+        "end": "01:31.908",
+        "text": "I had a call today,",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:32.008",
+        "end": "01:33.508",
+        "text": "Company is coming,",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:33.558",
+        "end": "01:39.258",
+        "text": "Please provide the details for the activation.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:39.308",
+        "end": "01:41.208",
+        "text": "I am not able to connect.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "01:41.436",
+        "end": "01:57.436",
+        "text": "My connection is not stable. Please check your connection.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "01:57.502",
+        "end": "02:03.902",
+        "text": "There is a problem with the connection. Please check your setup.",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:03.148",
+        "end": "02:07.448",
+        "text": "The 99 rupees is the activation fee.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "02:07.198",
+        "end": "02:15.448",
+        "text": "The 99 rupees is the activation fee for the service.",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:15.198",
+        "end": "02:17.448",
+        "text": "Please check your setup.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "02:17.248",
+        "end": "02:19.898",
+        "text": "The connection is not stable.",
+        "speaker": "technician"
+      },
+      {
+        "start": "03:00.000",
+        "end": "03:02.350",
+        "text": "This is a party number, internet connection.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:02.450",
+        "end": "03:03.400",
+        "text": "Yes.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:03.500",
+        "end": "03:06.300",
+        "text": "This is a channel number, this is a 3-2-1 connection.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:06.800",
+        "end": "03:08.950",
+        "text": "Hello, sir, please hold.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:09.700",
+        "end": "03:11.400",
+        "text": "Yes, the current connection is activated.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:12.600",
+        "end": "03:16.900",
+        "text": "That is correct, sir, the current channel is working fine.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:18.150",
+        "end": "03:22.350",
+        "text": "This channel is not available, you will need to activate it.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:22.750",
+        "end": "03:24.300",
+        "text": "This is your current channel.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:25.492",
+        "end": "03:32.142",
+        "text": "B4U is not available, B4U is not working.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:32.142",
+        "end": "03:35.642",
+        "text": "We are not able to connect to the channel.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:35.642",
+        "end": "03:45.392",
+        "text": "The current channel is not available, please check your setup.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:45.972",
+        "end": "03:50.122",
+        "text": "If you want to activate it, please provide the code.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:50.572",
+        "end": "03:50.972",
+        "text": "Register.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:50.972",
+        "end": "03:51.122",
+        "text": "Okay.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:51.122",
+        "end": "04:00.122",
+        "text": "The code is 15, please activate it for channel number 96.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:02.622",
+        "end": "04:12.622",
+        "text": "You can activate it through the app, please check your settings.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:12.922",
+        "end": "04:14.272",
+        "text": "You can check your settings.",
+        "speaker": "agent"
+      }
+    ]
+  },
+  "call_summary": "The customer inquired about activating a channel, and the agent provided instructions and confirmed the current status of the connection.",
+  "issue_resolved": "partial",
+  "speakers_identified": [
+    "agent",
+    "customer"
+  ],
+  "language_used": "English",
+  "sentiment": "neutral",
+  "total_segments": 20,
+  "processing_time_seconds": 139.34
+}

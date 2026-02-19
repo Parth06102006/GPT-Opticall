@@ -1,0 +1,419 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469948893936463.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:14.580",
+        "end": "00:14.930",
+        "text": "Hello.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:16.530",
+        "end": "00:17.430",
+        "text": "Santhar is here.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:18.080",
+        "end": "00:18.480",
+        "text": "Hello.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:25.780",
+        "end": "00:27.780",
+        "text": "I can assist you in research.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:28.580",
+        "end": "00:29.430",
+        "text": "Santhar is here.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:30.680",
+        "end": "00:31.530",
+        "text": "Yes, please tell.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:33.780",
+        "end": "00:34.630",
+        "text": "0 to 9",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:37.080",
+        "end": "00:38.180",
+        "text": "0 9 3",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:40.788",
+        "end": "00:41.388",
+        "text": "Yes.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:43.538",
+        "end": "00:44.788",
+        "text": "5396",
+        "speaker": "technician"
+      },
+      {
+        "start": "00:45.488",
+        "end": "00:46.838",
+        "text": "5396",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:48.438",
+        "end": "00:50.688",
+        "text": "The line is not working properly.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:02.938",
+        "end": "01:05.688",
+        "text": "You can know about the connection issue.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:06.548",
+        "end": "01:08.598",
+        "text": "Your signal is weak.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:08.598",
+        "end": "01:17.548",
+        "text": "After providing the name, the connection will be checked.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:17.548",
+        "end": "01:18.598",
+        "text": "Sir, please hold.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:19.648",
+        "end": "01:21.748",
+        "text": "Sir, you are saying that the connection is not working.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:21.748",
+        "end": "01:22.548",
+        "text": "Please provide the details.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:24.198",
+        "end": "01:25.498",
+        "text": "The connection is not working.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:25.498",
+        "end": "01:27.048",
+        "text": "The connection is not working.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:27.348",
+        "end": "01:29.698",
+        "text": "The connection is not working properly.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:31.548",
+        "end": "01:33.048",
+        "text": "What is the problem?",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:33.844",
+        "end": "01:35.294",
+        "text": "Do you want to go to the brother's party or this?",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:37.044",
+        "end": "01:39.594",
+        "text": "No account balance, extra 2K error code is coming.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:03.444",
+        "end": "01:06.394",
+        "text": "I would like to know, are you in front of the TV screen right now?",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:06.944",
+        "end": "01:07.694",
+        "text": "I'm not well.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:10.044",
+        "end": "01:11.094",
+        "text": "Switch on the setup box.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:12.094",
+        "end": "01:12.994",
+        "text": "I'm not well.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:16.444",
+        "end": "01:18.894",
+        "text": "Yes, your line is being sent. A refresh command has been sent from here.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:18.994",
+        "end": "01:19.644",
+        "text": "Wait for 15 seconds.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:21.524",
+        "end": "01:24.474",
+        "text": "Please check the signal.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:24.474",
+        "end": "01:24.774",
+        "text": "Yes.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:24.774",
+        "end": "01:24.824",
+        "text": "Sir.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:24.824",
+        "end": "01:25.074",
+        "text": "Yes.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:25.074",
+        "end": "01:38.174",
+        "text": "The signal is weak, please check your connection.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:38.674",
+        "end": "01:40.174",
+        "text": "Yes, please check the connection.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:58.808",
+        "end": "02:02.658",
+        "text": "If your setup is ready, you can connect it.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:00.000",
+        "end": "03:05.000",
+        "text": "Hello. Santhar is here.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:05.001",
+        "end": "03:08.000",
+        "text": "Hello. I can assist you in research.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:08.001",
+        "end": "03:10.000",
+        "text": "Yes, please tell.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:10.001",
+        "end": "03:12.000",
+        "text": "0 to 9 0 9 3 Yes. 5396 5396",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:12.001",
+        "end": "03:15.000",
+        "text": "The line is not working properly.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:15.001",
+        "end": "03:18.000",
+        "text": "You can know about the connection issue.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:18.001",
+        "end": "03:20.000",
+        "text": "Your signal is weak.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:20.001",
+        "end": "03:23.000",
+        "text": "After providing the name, the connection will be checked.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:23.001",
+        "end": "03:25.000",
+        "text": "Sir, please hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:25.001",
+        "end": "03:28.000",
+        "text": "Sir, you are saying that the connection is not working.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:28.001",
+        "end": "03:30.000",
+        "text": "Please provide the details.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:30.001",
+        "end": "03:32.000",
+        "text": "The connection is not working.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:32.001",
+        "end": "03:34.000",
+        "text": "The connection is not working.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:34.001",
+        "end": "03:36.000",
+        "text": "The connection is not working properly.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:36.001",
+        "end": "03:38.000",
+        "text": "What is the problem?",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:38.001",
+        "end": "03:40.000",
+        "text": "Do you want to go to the brother's party or this?",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:40.001",
+        "end": "03:43.000",
+        "text": "No account balance, extra 2K error code is coming.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:43.001",
+        "end": "03:46.000",
+        "text": "I would like to know, are you in front of the TV screen right now?",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:46.001",
+        "end": "03:48.000",
+        "text": "I'm not well.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:48.001",
+        "end": "03:50.000",
+        "text": "Switch on the setup box.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:50.001",
+        "end": "03:52.000",
+        "text": "I'm not well.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:52.001",
+        "end": "03:54.000",
+        "text": "Yes, your line is being sent.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:54.001",
+        "end": "03:57.000",
+        "text": "A refresh command has been sent from here.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:57.001",
+        "end": "04:00.000",
+        "text": "Wait for 15 seconds.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:00.001",
+        "end": "04:02.000",
+        "text": "Please check the signal.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:02.001",
+        "end": "04:04.000",
+        "text": "Yes.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:04.001",
+        "end": "04:06.000",
+        "text": "Sir.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:06.001",
+        "end": "04:08.000",
+        "text": "Yes. The signal is weak, please check your connection.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:08.001",
+        "end": "04:10.000",
+        "text": "Yes, please check the connection.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:10.001",
+        "end": "04:12.000",
+        "text": "If your setup is ready, you can connect it.",
+        "speaker": "agent"
+      }
+    ]
+  },
+  "call_summary": "The customer reported a weak signal and connection issues, while the agent provided troubleshooting steps and sent a refresh command.",
+  "issue_resolved": "partial",
+  "speakers_identified": [
+    "agent",
+    "customer"
+  ],
+  "language_used": "English",
+  "sentiment": "neutral",
+  "total_segments": 40,
+  "processing_time_seconds": 136.26
+}

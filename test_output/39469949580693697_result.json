@@ -1,0 +1,161 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469949580693697.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:05.172",
+        "end": "00:08.772",
+        "text": "I am with my loop, can you please provide 216.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:08.772",
+        "end": "00:12.972",
+        "text": "That is 116, please give the number.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:13.422",
+        "end": "00:15.772",
+        "text": "216 connection can be named as such.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:16.272",
+        "end": "00:17.672",
+        "text": "Please provide the name.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:17.722",
+        "end": "00:19.872",
+        "text": "The connection is available on the call.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:20.822",
+        "end": "00:22.972",
+        "text": "116 number 116.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:28.072",
+        "end": "00:29.822",
+        "text": "Is your starter available?",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:30.804",
+        "end": "00:34.854",
+        "text": "This is a part of the work.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:34.854",
+        "end": "00:37.804",
+        "text": "The connection has been provided and it is available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:38.504",
+        "end": "00:39.454",
+        "text": "One connection.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:40.654",
+        "end": "00:41.504",
+        "text": "Please provide.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:42.254",
+        "end": "00:45.204",
+        "text": "One connection, one connection, please do not provide.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:45.204",
+        "end": "00:55.204",
+        "text": "Your TV 105, TV screen is connected, there is a missed number, please provide the mobile number for the missed connection.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:55.354",
+        "end": "00:56.804",
+        "text": "When it is not being done.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:57.404",
+        "end": "00:57.854",
+        "text": "Please provide.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:59.220",
+        "end": "01:00.020",
+        "text": "Today it is being done.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:01.870",
+        "end": "01:03.720",
+        "text": "Please connect.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:06.520",
+        "end": "01:18.770",
+        "text": "The connection is available, the installation is 42% complete, please provide the connection for 30 days.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:79.668",
+        "end": "01:81.668",
+        "text": "Please provide the connection.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:81.668",
+        "end": "01:83.218",
+        "text": "Yes, please provide the connection.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:83.268",
+        "end": "01:83.568",
+        "text": "Is it okay?",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:83.868",
+        "end": "01:86.018",
+        "text": "After 19 connections, it will be available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:86.068",
+        "end": "01:88.768",
+        "text": "The connection is 273, it will be available in three days.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:90.568",
+        "end": "01:92.418",
+        "text": "The connection will be updated.",
+        "speaker": "customer"
+      }
+    ]
+  },
+  "call_summary": "The customer requested a connection and provided various details about their service, while the agent attempted to assist with the connection process.",
+  "issue_resolved": "partial",
+  "speakers_identified": [
+    "customer",
+    "agent"
+  ],
+  "language_used": "English",
+  "sentiment": "neutral",
+  "total_segments": 36,
+  "processing_time_seconds": 68.37
+}

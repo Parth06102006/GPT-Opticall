@@ -1,0 +1,214 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469949580693697.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:05.172",
+        "end": "00:07.772",
+        "text": "Hello, can I know the name of the connection?",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:08.772",
+        "end": "00:13.172",
+        "text": "This is 116 number, it is a connection from Dish TV.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:13.172",
+        "end": "00:15.722",
+        "text": "Can you tell me the name of the connection?",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:16.822",
+        "end": "00:17.472",
+        "text": "Banker name.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:17.722",
+        "end": "00:19.922",
+        "text": "Confirmation is done, it will remain on the ledge.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:20.422",
+        "end": "00:21.522",
+        "text": "116 number.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:24.272",
+        "end": "00:25.122",
+        "text": "145 is there.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:27.422",
+        "end": "00:29.822",
+        "text": "116 is your starter number.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:30.804",
+        "end": "00:32.004",
+        "text": "After this, it will be blocked.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:34.254",
+        "end": "00:37.804",
+        "text": "144 will be blocked in your area and it will be activated.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:42.304",
+        "end": "00:44.554",
+        "text": "605.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:46.804",
+        "end": "00:55.404",
+        "text": "The TV screen will show a message for 15 minutes and will remain activated.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:57.554",
+        "end": "00:58.054",
+        "text": "It will be given.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:59.220",
+        "end": "00:59.970",
+        "text": "Today it will be done.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:01.870",
+        "end": "01:03.670",
+        "text": "Look for one.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:06.470",
+        "end": "01:18.720",
+        "text": "All the channels will be available for 40 days for 90 seconds and will be activated for 15 minutes.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:79.668",
+        "end": "01:81.818",
+        "text": "That will be blocked for one month.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:81.818",
+        "end": "01:88.868",
+        "text": "Yes, it will be blocked for 19 days and will be available for 273 days.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:90.468",
+        "end": "01:92.468",
+        "text": "It will be activated in the month of October.",
+        "speaker": "customer"
+      }
+    ]
+  },
+  "agent_opening_within_5_sec": true,
+  "agent_used_opening_script": true,
+  "agent_used_brand_name": true,
+  "agent_used_closing_script": null,
+  "agent_used_further_assistance_script": null,
+  "agent_used_correct_hold_script": false,
+  "agent_explained_issue_to_l2": false,
+  "agent_followed_escalation_policy": false,
+  "agent_attentive_throughout": true,
+  "agent_probing_logical_and_correct": false,
+  "agent_allowed_customer_to_complete": true,
+  "agent_used_jargon": false,
+  "agent_spoke_in_customer_language": true,
+  "agent_fumbled_or_stammered": false,
+  "agent_shared_proactive_info": false,
+  "customer_experience_sentiment": "neutral",
+  "agent_pitched_csat": false,
+  "agent_verified_customer_details": false,
+  "agent_verified_customer_details_reason": "agent did not request customer account details",
+  "agent_ensured_warm_transfer": null,
+  "agent_ensured_warm_transfer_reason": "",
+  "agent_used_absurd_or_abusive_language": false,
+  "agent_used_absurd_or_abusive_language_reason": "",
+  "agent_tone_type": false,
+  "agent_tone_type_reason": "",
+  "agent_communicated_tat": true,
+  "agent_communicated_tat_reason": "",
+  "overall_customer_sentiment": "neutral",
+  "initial_customer_sentiment": "neutral",
+  "closure_customer_sentiment": "neutral",
+  "agent_excessive_hold_duration": false,
+  "no_of_call_holds": 0,
+  "total_hold_duration": 0,
+  "dead_air": false,
+  "duration_dead_air": 0,
+  "call_dropped": false,
+  "customer_voc": "Customer inquired about connection details and activation status.",
+  "closure_timeline": null,
+  "call_category": "channel related",
+  "sub_call_category": "channel inquiry",
+  "qrc_category": "query",
+  "field_request_asked": false,
+  "error_codes_mentioned": [],
+  "customer_know_the_error_code": false,
+  "issue_resolved": true,
+  "resolution_turn_around_time": 0,
+  "follow_up_required": false,
+  "customer_confirmation_for_resolution": true,
+  "offer_pitched": false,
+  "no_times_offer_pitched": 0,
+  "customer_reaction_to_offer": "neutral",
+  "offer_category": [],
+  "offer_names_pitched": [],
+  "promotion_of_ott": false,
+  "recharge_accepted": false,
+  "recharge_delayed_reason": [],
+  "promise_of_payment": false,
+  "channel_mentioned": [],
+  "name_of_competitor": [],
+  "d_i_y_pitched": false,
+  "pay_later_requested": false,
+  "pay_later_provided": false,
+  "channel_addition_intended": false,
+  "channel_deletion_intended": false,
+  "charges_customer_refused": false,
+  "charges_customer_refused_reason": "",
+  "no_of_speakers": 2,
+  "first_call_resolution": true,
+  "call_category_remark": "",
+  "channel_category": [],
+  "price_mentioned": 0.0,
+  "is_offer_purchased": false,
+  "offer_purchased": "",
+  "change_in_fmr": 0,
+  "technician_competence": false,
+  "customer_satisfaction_over_technician_visit": "",
+  "technician_behaviour": "",
+  "customer_technician_complain": "",
+  "billing_mode": "",
+  "waivers_requested": false,
+  "waivers_offered": false,
+  "waiver_type": "",
+  "promotion_of_products": false,
+  "competitor_mentioned": false,
+  "qrc_category_remark": "",
+  "multiple_call_mentioned": false,
+  "visit_charges_refused": false,
+  "complaining_about_FMR": false,
+  "watcho_related_issues": false,
+  "app_related_issues": false,
+  "repeat_call_number": 0,
+  "sub_sub_category": [],
+  "processing_time_seconds": 103.52
+}

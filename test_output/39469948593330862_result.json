@@ -1,0 +1,341 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469948593330862.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:00.532",
+        "end": "00:03.232",
+        "text": "Hello.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:03.232",
+        "end": "00:08.182",
+        "text": "Yes, hello. This is the Dish TV customer service.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:11.432",
+        "end": "00:11.982",
+        "text": "Yes.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:13.132",
+        "end": "00:18.782",
+        "text": "My Wi-Fi is not working properly.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:18.782",
+        "end": "00:21.382",
+        "text": "I am not able to see the signal.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:24.882",
+        "end": "00:26.832",
+        "text": "Can you please check the connection?",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:27.572",
+        "end": "00:28.722",
+        "text": "Yes, I will check.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:34.822",
+        "end": "00:35.772",
+        "text": "The number is 02543292210.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:38.022",
+        "end": "00:44.772",
+        "text": "This is the correct number.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:44.772",
+        "end": "00:47.022",
+        "text": "Yes, that's correct.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:47.322",
+        "end": "00:53.072",
+        "text": "The line has been down for a year.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:53.972",
+        "end": "00:54.372",
+        "text": "Ah.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:10.722",
+        "end": "01:13.772",
+        "text": "Sir, the starter is not included in the package.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:13.822",
+        "end": "01:16.822",
+        "text": "That's why we can't see it. Your starter is an HSM pack.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:17.332",
+        "end": "01:28.882",
+        "text": "The charge is ₹225 including GST. If any spare part is required, it will not be included.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:28.882",
+        "end": "01:31.182",
+        "text": "No, I am not able to see it.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:31.182",
+        "end": "01:35.682",
+        "text": "For the inconvenience, we will charge ₹225 including GST.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:35.682",
+        "end": "01:36.832",
+        "text": "Okay.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:36.832",
+        "end": "01:39.931",
+        "text": "The starter is not available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:39.931",
+        "end": "01:42.406",
+        "text": "Is there any other option?",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:42.406",
+        "end": "01:56.960",
+        "text": "I can check with the technician for you and see if there are any other options available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:56.960",
+        "end": "01:57.360",
+        "text": "Okay.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:57.360",
+        "end": "02:01.360",
+        "text": "I will check with the technician.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:01.360",
+        "end": "02:04.360",
+        "text": "I will get back to you shortly.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:04.360",
+        "end": "02:07.360",
+        "text": "Thank you for your patience.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:07.360",
+        "end": "02:10.360",
+        "text": "Okay, thank you.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:00.000",
+        "end": "03:05.000",
+        "text": "Hello.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:05.001",
+        "end": "03:07.000",
+        "text": "Yes, hello.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:07.001",
+        "end": "03:10.000",
+        "text": "This is the Dish TV customer service.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:10.001",
+        "end": "03:15.000",
+        "text": "Yes. My Wi-Fi is not working properly.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:15.001",
+        "end": "03:18.000",
+        "text": "I am not able to see the signal.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:18.001",
+        "end": "03:21.000",
+        "text": "Can you please check the connection?",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:21.001",
+        "end": "03:23.000",
+        "text": "Yes, I will check.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:23.001",
+        "end": "03:27.000",
+        "text": "The number is 02543292210.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:27.001",
+        "end": "03:29.000",
+        "text": "This is the correct number.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:29.001",
+        "end": "03:32.000",
+        "text": "Yes, that's correct.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:32.001",
+        "end": "03:35.000",
+        "text": "The line has been down for a year.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:35.001",
+        "end": "03:38.000",
+        "text": "Ah.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:38.001",
+        "end": "03:41.000",
+        "text": "Sir, the starter is not included in the package.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:41.001",
+        "end": "03:44.000",
+        "text": "That's why we can't see it.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:44.001",
+        "end": "03:48.000",
+        "text": "Your starter is an HSM pack.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:48.001",
+        "end": "03:51.000",
+        "text": "The charge is ₹225 including GST.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:51.001",
+        "end": "03:54.000",
+        "text": "If any spare part is required, it will not be included.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:54.001",
+        "end": "03:57.000",
+        "text": "No, I am not able to see it.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:57.001",
+        "end": "04:01.000",
+        "text": "For the inconvenience, we will charge ₹225 including GST.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:01.001",
+        "end": "04:04.000",
+        "text": "Okay.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:04.001",
+        "end": "04:07.000",
+        "text": "The starter is not available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:07.001",
+        "end": "04:10.000",
+        "text": "Is there any other option?",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:10.001",
+        "end": "04:13.000",
+        "text": "I can check with the technician for you and see if there are any other options available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:13.001",
+        "end": "04:16.000",
+        "text": "Okay.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:16.001",
+        "end": "04:19.000",
+        "text": "I will check with the technician.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:19.001",
+        "end": "04:22.000",
+        "text": "I will get back to you shortly.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:22.001",
+        "end": "04:25.000",
+        "text": "Thank you for your patience.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:25.001",
+        "end": "04:27.000",
+        "text": "Okay, thank you.",
+        "speaker": "customer"
+      }
+    ]
+  },
+  "call_summary": "The customer reported issues with their Wi-Fi connection and inquired about the starter package. The agent explained the situation and offered to check for other options.",
+  "issue_resolved": "partial",
+  "speakers_identified": [
+    "agent",
+    "customer"
+  ],
+  "language_used": "English",
+  "sentiment": "neutral",
+  "total_segments": 30,
+  "processing_time_seconds": 141.13
+}

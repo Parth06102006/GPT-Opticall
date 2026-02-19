@@ -1,0 +1,913 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469950409009479.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:01.684",
+        "end": "00:04.584",
+        "text": "Hello, hello.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:06.134",
+        "end": "00:11.034",
+        "text": "I am having some issues with the channel that is not working.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:13.284",
+        "end": "00:14.684",
+        "text": "Hello, hello.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:15.764",
+        "end": "00:20.964",
+        "text": "There is a problem with the channel that is not working and some other channels are also not working.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:20.964",
+        "end": "00:31.414",
+        "text": "My set-top box is not receiving any signals, and the channels are not coming through.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:42.612",
+        "end": "00:43.162",
+        "text": "Money,",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:44.012",
+        "end": "00:48.512",
+        "text": "Please provide the name of the package you are using.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:00.512",
+        "end": "01:04.262",
+        "text": "I am using the package that includes the channels you mentioned.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:25.588",
+        "end": "01:32.188",
+        "text": "I have the Prime package,",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:32.238",
+        "end": "01:36.288",
+        "text": "Flex Hindi HD is also included in my package.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:39.588",
+        "end": "01:03.938",
+        "text": "There is no channel coming through, and I am not able to access any channels.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:03.938",
+        "end": "01:07.488",
+        "text": "There is no channel available for me to watch.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:09.638",
+        "end": "01:11.888",
+        "text": "There are no channels available for you to watch.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:11.888",
+        "end": "01:13.238",
+        "text": "Okay.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:12.884",
+        "end": "01:16.334",
+        "text": "The channels are not coming through.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:18.934",
+        "end": "01:19.934",
+        "text": "Three channels are not working.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:00.000",
+        "end": "02:00.400",
+        "text": "Hello",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:01.550",
+        "end": "02:02.600",
+        "text": "What remains, right?",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:02.650",
+        "end": "02:03.150",
+        "text": "That's wrong.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:04.450",
+        "end": "02:08.950",
+        "text": "This end needs something today, but you haven't provided 300 today.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:08.950",
+        "end": "02:10.600",
+        "text": "This is a recorder, isn't it?",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:40.660",
+        "end": "02:41.010",
+        "text": "Amen.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:58.310",
+        "end": "03:01.910",
+        "text": "The name is being told, but what is being said is unclear.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:08.756",
+        "end": "03:12.656",
+        "text": "Channel number 312 is the first channel.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:14.906",
+        "end": "03:21.656",
+        "text": "This is a channel, this is a channel, this is an end picture, the first channel number 312.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:22.706",
+        "end": "03:28.956",
+        "text": "The call is being made, it will be available in 15 minutes, but it is not available yet.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:30.660",
+        "end": "03:49.010",
+        "text": "The HD version of your lead is also available, it is also available, it is the same, it will be available in three spots.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:10.360",
+        "end": "03:14.010",
+        "text": "That HD is not available, it is not available, please switch to normal.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:17.160",
+        "end": "03:19.810",
+        "text": "The HD version is there, it is MTV HD.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:00.000",
+        "end": "04:00.300",
+        "text": "Hello,",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:00.350",
+        "end": "04:04.650",
+        "text": "Your rate is 808, please check.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:05.150",
+        "end": "04:07.400",
+        "text": "108 is there, hello,",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:08.300",
+        "end": "04:10.150",
+        "text": "N T D, T D, G G,",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:12.050",
+        "end": "04:13.750",
+        "text": "108",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:13.750",
+        "end": "04:14.700",
+        "text": "Which one is it?",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:14.700",
+        "end": "04:16.000",
+        "text": "108",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:16.000",
+        "end": "04:16.100",
+        "text": "108",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:16.100",
+        "end": "04:21.600",
+        "text": "It is not available in 307, 307 is there, after 310 is there,",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:21.650",
+        "end": "04:23.550",
+        "text": "312 is there.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:25.140",
+        "end": "04:31.040",
+        "text": "Yes, it is not available in the other channels, it is not available in the other channels.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:31.090",
+        "end": "04:31.690",
+        "text": "Okay,",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:31.740",
+        "end": "04:34.090",
+        "text": "It is available in the line of the other channels.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:36.340",
+        "end": "04:38.940",
+        "text": "It is available in the 504.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:42.890",
+        "end": "04:47.040",
+        "text": "It is available in the other channels, it is available in 504.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:51.444",
+        "end": "04:52.094",
+        "text": "5-0",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:52.094",
+        "end": "04:56.894",
+        "text": "It is not available in the other channels.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:56.894",
+        "end": "05:00.344",
+        "text": "It is not available in the other channels.",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:00.344",
+        "end": "05:02.594",
+        "text": "It is not available in the other channels.",
+        "speaker": "customer"
+      },
+      {
+        "start": "05:02.894",
+        "end": "05:05.094",
+        "text": "It is available in the other channels.",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:05.094",
+        "end": "05:16.444",
+        "text": "Today, it is available in the English channels, it is available in the other channels.",
+        "speaker": "customer"
+      },
+      {
+        "start": "05:17.556",
+        "end": "06:19.606",
+        "text": "Colors infant HD,",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:19.956",
+        "end": "06:21.156",
+        "text": "English colors,",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:21.306",
+        "end": "06:21.656",
+        "text": "you only,",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:21.806",
+        "end": "06:23.106",
+        "text": "you only started, you only started,",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:23.156",
+        "end": "06:23.206",
+        "text": "right?",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:26.906",
+        "end": "06:28.456",
+        "text": "I was not supposed to start English.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:31.306",
+        "end": "06:32.956",
+        "text": "Okay, wait for a little while, okay?",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:33.406",
+        "end": "06:35.356",
+        "text": "Let me know if you have any questions.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:36.056",
+        "end": "06:38.306",
+        "text": "Let me know if you have any questions.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:42.156",
+        "end": "06:43.306",
+        "text": "Please stop, madam,",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:43.356",
+        "end": "06:44.806",
+        "text": "I do not want to start English.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:45.428",
+        "end": "06:47.328",
+        "text": "It is available in 303-304.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:47.728",
+        "end": "06:51.528",
+        "text": "It is available in 304.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:51.528",
+        "end": "06:53.878",
+        "text": "It is available in the other channels.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:56.728",
+        "end": "06:59.828",
+        "text": "It is available in HB and 305.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:00.000",
+        "end": "06:04.100",
+        "text": "The problem is that the channel is not working.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:05.250",
+        "end": "06:07.850",
+        "text": "Which channel is not working?",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:10.700",
+        "end": "06:12.050",
+        "text": "The channel is showing a black screen.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:17.850",
+        "end": "06:20.550",
+        "text": "304 is the channel that is not working.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:27.188",
+        "end": "06:28.338",
+        "text": "The channel is not showing anything.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:36.588",
+        "end": "06:48.188",
+        "text": "Your account has been activated for 30 days, and the package is ₹22.42. The channel is supposed to be active for you.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:49.438",
+        "end": "06:50.988",
+        "text": "There is no issue with the package.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:52.052",
+        "end": "07:00.102",
+        "text": "I was saying that earlier, I had activated the channel for you, but it seems to be not working now.",
+        "speaker": "customer"
+      },
+      {
+        "start": "07:00.102",
+        "end": "07:00.502",
+        "text": "You have activated it.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:00.502",
+        "end": "07:00.652",
+        "text": "Yes, it is activated.",
+        "speaker": "customer"
+      },
+      {
+        "start": "07:00.652",
+        "end": "07:04.402",
+        "text": "Please check the channel again.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:06.152",
+        "end": "07:08.402",
+        "text": "The channel is still not showing anything.",
+        "speaker": "customer"
+      },
+      {
+        "start": "07:11.252",
+        "end": "07:17.552",
+        "text": "Please check if the channel is available in your area.",
+        "speaker": "customer"
+      },
+      {
+        "start": "07:18.420",
+        "end": "07:20.020",
+        "text": "You have put the customer on hold.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "07:32.620",
+        "end": "07:34.520",
+        "text": "You have put the customer on hold.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "07:53.524",
+        "end": "07:55.174",
+        "text": "You have put the customer on hold.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "08:11.060",
+        "end": "08:12.710",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "08:46.296",
+        "end": "08:47.846",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:00.446",
+        "end": "09:01.996",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:21.418",
+        "end": "09:22.918",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:36.868",
+        "end": "09:38.418",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:16.372",
+        "end": "09:17.972",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "10:13.908",
+        "end": "10:15.558",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "10:21.758",
+        "end": "10:22.658",
+        "text": "Aajee Nambalok",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:22.858",
+        "end": "10:37.508",
+        "text": "Nambar bulake maapich chale sar jee sar main prosee karake thodaa samay lagata hai phir aapke mein sudar paay theek hai jee main aapka prosee karva rahi hoon jo aapne aaj hi logain kiya hai na to iska kaam to main edavaans ripor le leti hoon aapka",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:37.940",
+        "end": "10:56.690",
+        "text": "Ye doyon aapne matalab jee aise wale ko parvaane ke liye kaha hai wo sabit karne ke baad hi hitega theek hai to ye edavaans ki ko sab le sakti hoon abhi le rahi hoon theek hai apni end peechar bala aapne bola ki normal bala hatane ke liye rait wo bala teen sopaanch bala hatane main hata deti hoon theek hai",
+        "speaker": "customer"
+      },
+      {
+        "start": "11:09.556",
+        "end": "11:10.206",
+        "text": "What's the box over?",
+        "speaker": "agent"
+      },
+      {
+        "start": "11:11.406",
+        "end": "11:12.106",
+        "text": "Kar doonge sar,",
+        "speaker": "customer"
+      },
+      {
+        "start": "11:12.156",
+        "end": "11:14.206",
+        "text": "Sar ishtem mein sar karunga, thodaa samay lag raha tha",
+        "speaker": "customer"
+      },
+      {
+        "start": "11:29.356",
+        "end": "11:30.006",
+        "text": "Ab sar,",
+        "speaker": "customer"
+      },
+      {
+        "start": "11:30.156",
+        "end": "11:35.756",
+        "text": "Ek vak voko jo bataaya aapne inglish wala wo wala band karva nahin ke liye ka aapne rain",
+        "speaker": "customer"
+      },
+      {
+        "start": "11:36.628",
+        "end": "11:37.428",
+        "text": "Powerband Gerdo.",
+        "speaker": "technician"
+      },
+      {
+        "start": "11:57.278",
+        "end": "11:59.178",
+        "text": "Ab main is diwara bola hai 300",
+        "speaker": "customer"
+      },
+      {
+        "start": "12:07.508",
+        "end": "12:15.958",
+        "text": "On the first page of the name, I will activate it for you, sir. It includes GST and has a one-day locking period. Is that okay?",
+        "speaker": "agent"
+      },
+      {
+        "start": "12:15.958",
+        "end": "12:16.808",
+        "text": "Yes, yes.",
+        "speaker": "customer"
+      },
+      {
+        "start": "12:18.608",
+        "end": "12:21.458",
+        "text": "And you want to activate the color, sir?",
+        "speaker": "agent"
+      },
+      {
+        "start": "12:21.458",
+        "end": "12:23.558",
+        "text": "And it is...",
+        "speaker": "customer"
+      },
+      {
+        "start": "12:36.372",
+        "end": "12:40.222",
+        "text": "The talk is about the simple color, a prepaid simple.",
+        "speaker": "customer"
+      },
+      {
+        "start": "12:41.322",
+        "end": "12:43.572",
+        "text": "This is the way.",
+        "speaker": "agent"
+      },
+      {
+        "start": "12:45.272",
+        "end": "12:45.772",
+        "text": "Yes, indeed.",
+        "speaker": "customer"
+      },
+      {
+        "start": "12:54.572",
+        "end": "13:02.622",
+        "text": "This is your package, it will be available for 30 days. The link will remain active for you. I will activate it now.",
+        "speaker": "agent"
+      },
+      {
+        "start": "13:03.732",
+        "end": "13:04.632",
+        "text": "I'll start it, I'll start it.",
+        "speaker": "customer"
+      },
+      {
+        "start": "13:05.132",
+        "end": "13:05.882",
+        "text": "10k, sir.",
+        "speaker": "agent"
+      },
+      {
+        "start": "13:06.032",
+        "end": "13:06.582",
+        "text": "12k, sir.",
+        "speaker": "agent"
+      },
+      {
+        "start": "13:06.632",
+        "end": "13:06.932",
+        "text": "10k, sir.",
+        "speaker": "agent"
+      },
+      {
+        "start": "13:36.916",
+        "end": "13:43.516",
+        "text": "Your total package is 67 rupees. It is not available for you.",
+        "speaker": "agent"
+      },
+      {
+        "start": "13:43.516",
+        "end": "13:49.116",
+        "text": "It was previously available in those days. It is now being increased.",
+        "speaker": "customer"
+      },
+      {
+        "start": "13:49.266",
+        "end": "13:56.966",
+        "text": "Sir, your total is not available. The details have been provided.",
+        "speaker": "agent"
+      },
+      {
+        "start": "13:56.966",
+        "end": "13:59.866",
+        "text": "My point is that it is not available. They are not allowing it.",
+        "speaker": "customer"
+      },
+      {
+        "start": "14:00.000",
+        "end": "14:03.550",
+        "text": "Main karadi, wo ye ho nahi chainal chalu aap paise badha rahe ho,",
+        "speaker": "A"
+      },
+      {
+        "start": "14:04.250",
+        "end": "14:07.200",
+        "text": "Itre saath sur pe se koun mahine ka rikhaas dehdega main.",
+        "speaker": "A"
+      },
+      {
+        "start": "14:07.350",
+        "end": "14:09.550",
+        "text": "Ek baar batao aap,",
+        "speaker": "A"
+      },
+      {
+        "start": "14:09.550",
+        "end": "14:22.150",
+        "text": "Main aapko wahi gaind karun sar agar jida pedhi hote the main isliye main aapko poochke sammit kiya hai theek hai to itna jo aa raha hai main aapko wahi gaind karun 670 rupees including GST ek aur mant ke liye ho raha hai",
+        "speaker": "B"
+      },
+      {
+        "start": "14:23.450",
+        "end": "14:25.350",
+        "text": "Batao itra mahana koun dehdega main.",
+        "speaker": "A"
+      },
+      {
+        "start": "14:26.580",
+        "end": "14:33.530",
+        "text": "Wo kah rahe ke 604 mein aapka chalega unhonein chalu kuch chainal mein chalu ho gaye doin chalu nahin hue ya",
+        "speaker": "A"
+      },
+      {
+        "start": "14:33.530",
+        "end": "14:37.380",
+        "text": "Achha abhi to main kar diya hai sar kisne ab",
+        "speaker": "B"
+      },
+      {
+        "start": "14:38.630",
+        "end": "14:39.430",
+        "text": "Kar diya aapne",
+        "speaker": "A"
+      },
+      {
+        "start": "14:39.930",
+        "end": "14:51.780",
+        "text": "Main ne activate kar diya sar doin jo aapne bola wo main ne dilit karwa diya jo 305 wala jo tha theek hai to jo jo jo aapne bola main ne wahi doin activate karwa diya hai thoda samay dijiyega theek hai",
+        "speaker": "B"
+      },
+      {
+        "start": "14:58.580",
+        "end": "15:00.830",
+        "text": "Kya sar is liye karaya abhi tak toh ho nahi hai",
+        "speaker": "A"
+      },
+      {
+        "start": "15:01.630",
+        "end": "15:03.030",
+        "text": "Thoda sambhaai dijje sar",
+        "speaker": "B"
+      },
+      {
+        "start": "15:03.980",
+        "end": "15:06.230",
+        "text": "Samay le rahe hai aap toh lagte hain",
+        "speaker": "A"
+      },
+      {
+        "start": "15:12.430",
+        "end": "15:23.880",
+        "text": "Siske main sub mein thodasa samay lag raha hai theek hai agar didi aap chahate hain waise sar jo do chainal ka band hoga na wo 24 gante ka samay le gaya",
+        "speaker": "B"
+      },
+      {
+        "start": "15:24.340",
+        "end": "15:25.840",
+        "text": "Chik hai ji",
+        "speaker": "B"
+      },
+      {
+        "start": "15:26.540",
+        "end": "15:26.990",
+        "text": "Hmm",
+        "speaker": "A"
+      },
+      {
+        "start": "15:28.340",
+        "end": "15:29.890",
+        "text": "Sar toh aap samadhi ka mujhse",
+        "speaker": "B"
+      },
+      {
+        "start": "16:12.700",
+        "end": "16:16.100",
+        "text": "Hello sir, you are speaking.",
+        "speaker": "customer"
+      },
+      {
+        "start": "16:16.100",
+        "end": "16:16.300",
+        "text": "Yeah.",
+        "speaker": "agent"
+      },
+      {
+        "start": "16:16.300",
+        "end": "16:17.800",
+        "text": "Hi.",
+        "speaker": "customer"
+      },
+      {
+        "start": "16:17.900",
+        "end": "16:26.100",
+        "text": "But this is a problem, you are not getting the service, it is not working properly, and there is something else that is not working, it is not working properly, it is not working.",
+        "speaker": "customer"
+      }
+    ]
+  },
+  "agent_opening_within_5_sec": false,
+  "agent_used_opening_script": false,
+  "agent_used_brand_name": false,
+  "agent_used_closing_script": null,
+  "agent_used_further_assistance_script": null,
+  "agent_used_correct_hold_script": false,
+  "agent_explained_issue_to_l2": false,
+  "agent_followed_escalation_policy": false,
+  "agent_attentive_throughout": false,
+  "agent_probing_logical_and_correct": false,
+  "agent_allowed_customer_to_complete": true,
+  "agent_used_jargon": false,
+  "agent_spoke_in_customer_language": true,
+  "agent_fumbled_or_stammered": false,
+  "agent_shared_proactive_info": false,
+  "customer_experience_sentiment": "negative",
+  "agent_pitched_csat": false,
+  "agent_verified_customer_details": false,
+  "agent_verified_customer_details_reason": "Agent did not request customer account details",
+  "agent_ensured_warm_transfer": null,
+  "agent_ensured_warm_transfer_reason": "",
+  "agent_used_absurd_or_abusive_language": false,
+  "agent_used_absurd_or_abusive_language_reason": "",
+  "agent_tone_type": false,
+  "agent_tone_type_reason": "",
+  "agent_communicated_tat": null,
+  "agent_communicated_tat_reason": "",
+  "overall_customer_sentiment": "negative",
+  "initial_customer_sentiment": "negative",
+  "closure_customer_sentiment": "negative",
+  "agent_excessive_hold_duration": false,
+  "no_of_call_holds": 0,
+  "total_hold_duration": 0,
+  "dead_air": false,
+  "duration_dead_air": 0,
+  "call_dropped": false,
+  "customer_voc": "Customer expressed frustration about service not working properly.",
+  "closure_timeline": null,
+  "call_category": [
+    "technical"
+  ],
+  "sub_call_category": [
+    "stb issue"
+  ],
+  "qrc_category": [
+    "complain"
+  ],
+  "field_request_asked": false,
+  "error_codes_mentioned": [],
+  "customer_know_the_error_code": false,
+  "issue_resolved": false,
+  "resolution_turn_around_time": 0,
+  "follow_up_required": true,
+  "customer_confirmation_for_resolution": false,
+  "offer_pitched": false,
+  "no_times_offer_pitched": 0,
+  "customer_reaction_to_offer": "neutral",
+  "offer_category": [],
+  "offer_names_pitched": [],
+  "promotion_of_ott": false,
+  "recharge_accepted": false,
+  "recharge_delayed_reason": [],
+  "promise_of_payment": false,
+  "channel_mentioned": [],
+  "name_of_competitor": [],
+  "d_i_y_pitched": false,
+  "pay_later_requested": false,
+  "pay_later_provided": false,
+  "channel_addition_intended": false,
+  "channel_deletion_intended": false,
+  "charges_customer_refused": false,
+  "charges_customer_refused_reason": "",
+  "no_of_speakers": 2,
+  "first_call_resolution": false,
+  "call_category_remark": "",
+  "channel_category": [],
+  "price_mentioned": 0.0,
+  "is_offer_purchased": false,
+  "offer_purchased": "",
+  "change_in_fmr": 0,
+  "technician_competence": false,
+  "customer_satisfaction_over_technician_visit": "",
+  "technician_behaviour": "",
+  "customer_technician_complain": "",
+  "billing_mode": "",
+  "waivers_requested": false,
+  "waivers_offered": false,
+  "waiver_type": "",
+  "promotion_of_products": false,
+  "competitor_mentioned": false,
+  "qrc_category_remark": "",
+  "multiple_call_mentioned": false,
+  "visit_charges_refused": false,
+  "complaining_about_FMR": false,
+  "watcho_related_issues": false,
+  "app_related_issues": false,
+  "repeat_call_number": 0,
+  "sub_sub_category": [
+    "service not working",
+    "multiple issues"
+  ],
+  "processing_time_seconds": 436.21
+}

@@ -1,0 +1,472 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469949787485697.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:01.236",
+        "end": "00:03.986",
+        "text": "Hello, welcome to Dish TV.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:04.886",
+        "end": "00:06.036",
+        "text": "My name is Khushboo.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:06.636",
+        "end": "00:08.736",
+        "text": "How can I assist you?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:20.486",
+        "end": "00:22.486",
+        "text": "Your connection is not available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:23.036",
+        "end": "00:24.836",
+        "text": "Is your internet also down?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:25.836",
+        "end": "00:26.286",
+        "text": "Huh?",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:28.724",
+        "end": "00:33.924",
+        "text": "Yes, I am unable to get your assistance.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:35.824",
+        "end": "00:38.324",
+        "text": "The channel number is currently not available.",
+        "speaker": "technician"
+      },
+      {
+        "start": "00:39.074",
+        "end": "00:46.824",
+        "text": "For the service, please provide the correct code.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:49.074",
+        "end": "00:50.624",
+        "text": "I will check it.",
+        "speaker": "technician"
+      },
+      {
+        "start": "00:52.574",
+        "end": "00:53.424",
+        "text": "I am currently transferring your call.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:54.388",
+        "end": "00:59.338",
+        "text": "Your connection is being transferred to the senior technician.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:03.788",
+        "end": "01:06.188",
+        "text": "Hello, this is the senior technician.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:06.838",
+        "end": "01:13.488",
+        "text": "The channel number 306 is not available on Dish TV.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:14.038",
+        "end": "01:19.488",
+        "text": "The other channels are also not available.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:21.236",
+        "end": "01:22.586",
+        "text": "Please provide the channel number again.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:22.636",
+        "end": "01:24.036",
+        "text": "Please provide the channel number, sir.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:24.036",
+        "end": "01:24.986",
+        "text": "I will check it.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:26.686",
+        "end": "01:27.886",
+        "text": "Please provide the channel number.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:28.236",
+        "end": "01:31.936",
+        "text": "The channel number is 301, please check.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:34.186",
+        "end": "01:35.336",
+        "text": "606 is the channel number.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:35.886",
+        "end": "01:01.936",
+        "text": "Please check the channel number again, it is 301.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:03.604",
+        "end": "01:07.904",
+        "text": "I will check the service for you.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:07.904",
+        "end": "01:12.004",
+        "text": "You will receive the service shortly.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:13.354",
+        "end": "01:15.654",
+        "text": "Your service will be activated soon.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:15.654",
+        "end": "01:18.354",
+        "text": "Your service will be activated shortly.",
+        "speaker": "technician"
+      },
+      {
+        "start": "01:19.404",
+        "end": "01:19.654",
+        "text": "Channel.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "02:00.000",
+        "end": "02:00.000",
+        "text": "My name.",
+        "speaker": "A"
+      },
+      {
+        "start": "02:00.000",
+        "end": "02:24.500",
+        "text": "Yes, the signal is not coming from the Dish TV. The connection is not available. The internet is also not working. Please check the connection.",
+        "speaker": "B"
+      },
+      {
+        "start": "02:25.844",
+        "end": "02:29.194",
+        "text": "The signal is not coming from the Dish TV.",
+        "speaker": "C"
+      },
+      {
+        "start": "02:29.194",
+        "end": "02:30.194",
+        "text": "The signal is not coming.",
+        "speaker": "B"
+      },
+      {
+        "start": "02:30.194",
+        "end": "02:32.744",
+        "text": "The signal is not coming from the Dish TV.",
+        "speaker": "C"
+      },
+      {
+        "start": "02:33.396",
+        "end": "02:50.946",
+        "text": "The connection is not available. Please check the connection. The internet is also not working. Please check the connection.",
+        "speaker": "B"
+      },
+      {
+        "start": "02:50.946",
+        "end": "02:50.996",
+        "text": "Okay.",
+        "speaker": "C"
+      },
+      {
+        "start": "02:50.996",
+        "end": "03:01.296",
+        "text": "Please provide the DC number.",
+        "speaker": "B"
+      },
+      {
+        "start": "03:02.516",
+        "end": "03:02.816",
+        "text": "Okay.",
+        "speaker": "B"
+      },
+      {
+        "start": "03:03.316",
+        "end": "03:04.966",
+        "text": "Sir, please provide the DC number.",
+        "speaker": "B"
+      },
+      {
+        "start": "03:06.316",
+        "end": "03:07.616",
+        "text": "Sorry, one moment.",
+        "speaker": "C"
+      },
+      {
+        "start": "03:07.966",
+        "end": "03:09.466",
+        "text": "One moment, it's not working.",
+        "speaker": "C"
+      },
+      {
+        "start": "03:09.516",
+        "end": "03:09.616",
+        "text": "Wait.",
+        "speaker": "C"
+      },
+      {
+        "start": "03:10.216",
+        "end": "03:10.766",
+        "text": "Sorry.",
+        "speaker": "C"
+      },
+      {
+        "start": "03:10.766",
+        "end": "03:11.066",
+        "text": "DC.",
+        "speaker": "B"
+      },
+      {
+        "start": "03:20.466",
+        "end": "03:23.566",
+        "text": "The DC number is 025630.",
+        "speaker": "C"
+      },
+      {
+        "start": "03:23.566",
+        "end": "03:24.266",
+        "text": "025.",
+        "speaker": "B"
+      },
+      {
+        "start": "03:24.266",
+        "end": "03:26.016",
+        "text": "-639-539.",
+        "speaker": "C"
+      },
+      {
+        "start": "03:28.980",
+        "end": "03:30.180",
+        "text": "Please check your connection.",
+        "speaker": "B"
+      },
+      {
+        "start": "03:31.180",
+        "end": "03:32.080",
+        "text": "Clear file.",
+        "speaker": "C"
+      },
+      {
+        "start": "03:32.730",
+        "end": "03:34.080",
+        "text": "Please check the connection.",
+        "speaker": "B"
+      },
+      {
+        "start": "03:34.080",
+        "end": "03:40.980",
+        "text": "Complete 5001-5001 near the school.",
+        "speaker": "C"
+      },
+      {
+        "start": "03:41.430",
+        "end": "03:43.680",
+        "text": "Your pin code is 5304.",
+        "speaker": "B"
+      },
+      {
+        "start": "03:43.680",
+        "end": "03:44.780",
+        "text": "The number is not available.",
+        "speaker": "C"
+      },
+      {
+        "start": "03:46.180",
+        "end": "03:48.780",
+        "text": "Please provide an alternate number.",
+        "speaker": "B"
+      },
+      {
+        "start": "03:50.130",
+        "end": "03:52.830",
+        "text": "The alternate number is 9456.",
+        "speaker": "C"
+      },
+      {
+        "start": "03:55.220",
+        "end": "03:56.820",
+        "text": "05060909.",
+        "speaker": "C"
+      },
+      {
+        "start": "03:56.820",
+        "end": "03:57.870",
+        "text": "0 5 3.",
+        "speaker": "B"
+      },
+      {
+        "start": "04:00.628",
+        "end": "04:08.578",
+        "text": "909, this is our service number. After 9 o'clock, you can call and within 24 hours, a technician will come to visit.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:09.478",
+        "end": "04:14.678",
+        "text": "It's fine, but please do not provide any charge for this service.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:14.678",
+        "end": "04:21.328",
+        "text": "There is a problem with the connection. The service is not working properly. Please check the connection.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:25.828",
+        "end": "04:27.828",
+        "text": "Sir, I am arranging for the technician to come.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:28.596",
+        "end": "04:29.046",
+        "text": "Bye.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:29.346",
+        "end": "04:29.796",
+        "text": "Yeah.",
+        "speaker": "agent"
+      }
+    ]
+  },
+  "agent_opening_within_5_sec": true,
+  "agent_used_opening_script": true,
+  "agent_used_brand_name": true,
+  "agent_used_closing_script": false,
+  "agent_used_further_assistance_script": null,
+  "agent_used_correct_hold_script": false,
+  "agent_explained_issue_to_l2": false,
+  "agent_followed_escalation_policy": false,
+  "agent_attentive_throughout": true,
+  "agent_probing_logical_and_correct": false,
+  "agent_allowed_customer_to_complete": true,
+  "agent_used_jargon": false,
+  "agent_spoke_in_customer_language": true,
+  "agent_fumbled_or_stammered": false,
+  "agent_shared_proactive_info": false,
+  "customer_experience_sentiment": "neutral",
+  "agent_pitched_csat": false,
+  "agent_verified_customer_details": false,
+  "agent_verified_customer_details_reason": "",
+  "agent_ensured_warm_transfer": null,
+  "agent_ensured_warm_transfer_reason": "",
+  "agent_used_absurd_or_abusive_language": false,
+  "agent_used_absurd_or_abusive_language_reason": "",
+  "agent_tone_type": false,
+  "agent_tone_type_reason": "",
+  "agent_communicated_tat": true,
+  "agent_communicated_tat_reason": "",
+  "overall_customer_sentiment": "neutral",
+  "initial_customer_sentiment": "neutral",
+  "closure_customer_sentiment": "neutral",
+  "agent_excessive_hold_duration": false,
+  "no_of_call_holds": 0,
+  "total_hold_duration": 0,
+  "dead_air": false,
+  "duration_dead_air": 0,
+  "call_dropped": false,
+  "customer_voc": "Customer expressed concern about service issues and requested no charges for technician visit.",
+  "closure_timeline": "Technician will come within 24 hours.",
+  "call_category": [
+    "service related"
+  ],
+  "sub_call_category": [
+    "technician visit required"
+  ],
+  "qrc_category": [
+    "request"
+  ],
+  "field_request_asked": true,
+  "error_codes_mentioned": [],
+  "customer_know_the_error_code": false,
+  "issue_resolved": false,
+  "resolution_turn_around_time": 0,
+  "follow_up_required": true,
+  "customer_confirmation_for_resolution": false,
+  "offer_pitched": false,
+  "no_times_offer_pitched": 0,
+  "customer_reaction_to_offer": "neutral",
+  "offer_category": [],
+  "offer_names_pitched": [],
+  "promotion_of_ott": false,
+  "recharge_accepted": false,
+  "recharge_delayed_reason": [],
+  "promise_of_payment": false,
+  "channel_mentioned": [],
+  "name_of_competitor": [],
+  "d_i_y_pitched": false,
+  "pay_later_requested": false,
+  "pay_later_provided": false,
+  "channel_addition_intended": false,
+  "channel_deletion_intended": false,
+  "charges_customer_refused": true,
+  "charges_customer_refused_reason": "please do not provide any charge for this service",
+  "no_of_speakers": 2,
+  "first_call_resolution": false,
+  "call_category_remark": "",
+  "channel_category": [],
+  "price_mentioned": 0.0,
+  "is_offer_purchased": false,
+  "offer_purchased": "",
+  "change_in_fmr": 0,
+  "technician_competence": false,
+  "customer_satisfaction_over_technician_visit": "",
+  "technician_behaviour": "",
+  "customer_technician_complain": "",
+  "billing_mode": "",
+  "waivers_requested": false,
+  "waivers_offered": false,
+  "waiver_type": "",
+  "promotion_of_products": false,
+  "competitor_mentioned": false,
+  "qrc_category_remark": "",
+  "multiple_call_mentioned": false,
+  "visit_charges_refused": true,
+  "complaining_about_FMR": false,
+  "watcho_related_issues": false,
+  "app_related_issues": false,
+  "repeat_call_number": 0,
+  "sub_sub_category": [],
+  "processing_time_seconds": 1579.33
+}

@@ -1,0 +1,346 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469948893936463.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:14.580",
+        "end": "00:14.930",
+        "text": "Hello.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:16.480",
+        "end": "00:17.480",
+        "text": "Can you hear me?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:18.280",
+        "end": "00:18.580",
+        "text": "Hello,",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:18.780",
+        "end": "00:21.030",
+        "text": "can you hear me?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:23.030",
+        "end": "00:23.430",
+        "text": "Hello.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:24.930",
+        "end": "00:27.180",
+        "text": "Do you want me to do some research for you? Can you tell me how I can help you?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:27.780",
+        "end": "00:29.830",
+        "text": "Can you give me some information?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:30.880",
+        "end": "00:31.530",
+        "text": "Yes, tell me.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:33.930",
+        "end": "00:38.430",
+        "text": "0-9-3-0",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:40.788",
+        "end": "00:41.338",
+        "text": "Zero,",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:41.438",
+        "end": "00:42.338",
+        "text": "five",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:44.088",
+        "end": "00:44.738",
+        "text": "395.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:45.688",
+        "end": "00:47.038",
+        "text": "three nine six.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:48.438",
+        "end": "00:50.538",
+        "text": "We land one of these and cut gate to go there.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:02.488",
+        "end": "01:05.588",
+        "text": "Connection can be checked, whose connection is it in the name.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:06.548",
+        "end": "01:08.648",
+        "text": "It is in the name of the customer.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:08.648",
+        "end": "01:17.248",
+        "text": "After providing the name, it will be checked whether your connection is in the status of the account.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:17.248",
+        "end": "01:18.548",
+        "text": "Please provide the details.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:19.648",
+        "end": "01:21.698",
+        "text": "It is necessary to check the account status.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:21.698",
+        "end": "01:22.448",
+        "text": "Please provide the details.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:24.198",
+        "end": "01:33.048",
+        "text": "It is necessary to check the account status, please tell me what problem is occurring.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:33.844",
+        "end": "01:35.344",
+        "text": "Do you want to open, brother, and start a business?",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:37.094",
+        "end": "01:39.344",
+        "text": "No account balance X to Z is being added.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:40.144",
+        "end": "01:40.994",
+        "text": "Come to the office.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:43.444",
+        "end": "01:46.194",
+        "text": "I would like to know, you are sitting in front of the TV screen,",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:46.344",
+        "end": "01:47.344",
+        "text": "is your",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:47.344",
+        "end": "01:47.644",
+        "text": "Come to the office.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:52.394",
+        "end": "01:52.994",
+        "text": "Come to the office.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:00.000",
+        "end": "02:10.550",
+        "text": "Wait for 10 minutes.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:01.300",
+        "end": "02:02.050",
+        "text": "Okay, sir.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:02.250",
+        "end": "02:02.950",
+        "text": "Sir, how are you?",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:03.000",
+        "end": "02:03.200",
+        "text": "You okay?",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:04.200",
+        "end": "02:05.100",
+        "text": "This is a start over.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:05.100",
+        "end": "02:05.300",
+        "text": "It's done,",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:05.350",
+        "end": "02:05.400",
+        "text": "sir.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:06.500",
+        "end": "02:07.000",
+        "text": "It's done,",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:07.200",
+        "end": "02:07.400",
+        "text": "sir.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:08.100",
+        "end": "02:10.750",
+        "text": "Yes, sir. Some people will get a start if you call us.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:11.050",
+        "end": "02:15.700",
+        "text": "You will get a feedback page in which you will get a minimum of 5% to 10% rating.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:15.750",
+        "end": "02:22.500",
+        "text": "Please give us your feedback. It will be better for our service and better for our service. Thank you.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:39.290",
+        "end": "02:42.840",
+        "text": "Complete information has been provided to you regarding your Dish TV connection.",
+        "speaker": "agent"
+      }
+    ]
+  },
+  "agent_opening_within_5_sec": true,
+  "agent_used_opening_script": false,
+  "agent_used_brand_name": true,
+  "agent_used_closing_script": false,
+  "agent_used_further_assistance_script": false,
+  "agent_used_correct_hold_script": false,
+  "agent_explained_issue_to_l2": false,
+  "agent_followed_escalation_policy": false,
+  "agent_attentive_throughout": true,
+  "agent_probing_logical_and_correct": false,
+  "agent_allowed_customer_to_complete": true,
+  "agent_used_jargon": false,
+  "agent_spoke_in_customer_language": true,
+  "agent_fumbled_or_stammered": false,
+  "agent_shared_proactive_info": false,
+  "customer_experience_sentiment": "neutral",
+  "agent_pitched_csat": false,
+  "agent_verified_customer_details": false,
+  "agent_verified_customer_details_reason": "Agent did not request customer account details",
+  "agent_ensured_warm_transfer": null,
+  "agent_ensured_warm_transfer_reason": "",
+  "agent_used_absurd_or_abusive_language": false,
+  "agent_used_absurd_or_abusive_language_reason": "",
+  "agent_tone_type": false,
+  "agent_tone_type_reason": "",
+  "agent_communicated_tat": false,
+  "agent_communicated_tat_reason": "",
+  "overall_customer_sentiment": "neutral",
+  "initial_customer_sentiment": "neutral",
+  "closure_customer_sentiment": "neutral",
+  "agent_excessive_hold_duration": false,
+  "no_of_call_holds": 0,
+  "total_hold_duration": 0,
+  "dead_air": false,
+  "duration_dead_air": 0,
+  "call_dropped": false,
+  "customer_voc": "The agent provided information about the Dish TV connection but did not follow the opening and closing scripts.",
+  "closure_timeline": null,
+  "call_category": "service related",
+  "sub_call_category": "installation related",
+  "qrc_category": "query",
+  "field_request_asked": false,
+  "error_codes_mentioned": [],
+  "customer_know_the_error_code": false,
+  "issue_resolved": true,
+  "resolution_turn_around_time": 168,
+  "follow_up_required": false,
+  "customer_confirmation_for_resolution": true,
+  "offer_pitched": false,
+  "no_times_offer_pitched": 0,
+  "customer_reaction_to_offer": "neutral",
+  "offer_category": [],
+  "offer_names_pitched": [],
+  "promotion_of_ott": false,
+  "recharge_accepted": false,
+  "recharge_delayed_reason": [],
+  "promise_of_payment": false,
+  "channel_mentioned": [],
+  "name_of_competitor": [],
+  "d_i_y_pitched": false,
+  "pay_later_requested": false,
+  "pay_later_provided": false,
+  "channel_addition_intended": false,
+  "channel_deletion_intended": false,
+  "charges_customer_refused": false,
+  "charges_customer_refused_reason": "",
+  "no_of_speakers": 2,
+  "first_call_resolution": true,
+  "call_category_remark": "",
+  "channel_category": [],
+  "price_mentioned": 0.0,
+  "is_offer_purchased": false,
+  "offer_purchased": null,
+  "change_in_fmr": 0,
+  "technician_competence": false,
+  "customer_satisfaction_over_technician_visit": "",
+  "technician_behaviour": "",
+  "customer_technician_complain": "",
+  "billing_mode": "",
+  "waivers_requested": false,
+  "waivers_offered": false,
+  "waiver_type": "",
+  "promotion_of_products": false,
+  "competitor_mentioned": false,
+  "qrc_category_remark": "",
+  "multiple_call_mentioned": false,
+  "visit_charges_refused": false,
+  "complaining_about_FMR": false,
+  "watcho_related_issues": false,
+  "app_related_issues": false,
+  "repeat_call_number": 0,
+  "sub_sub_category": [],
+  "processing_time_seconds": 124.1
+}

@@ -1,0 +1,636 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469950297550475.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:02.164",
+        "end": "00:04.664",
+        "text": "Hello, I am not able to connect to your team.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:05.814",
+        "end": "00:13.714",
+        "text": "Hello, my name is not coming through. I am trying to record on the phone but it is not working.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:15.414",
+        "end": "00:21.014",
+        "text": "And before that, your application number is 0254254.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:22.114",
+        "end": "00:22.914",
+        "text": "015.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:30.196",
+        "end": "00:31.496",
+        "text": "One forty-nine.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:34.146",
+        "end": "00:35.296",
+        "text": "Eight, nine,",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:35.496",
+        "end": "00:36.596",
+        "text": "Ten,",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:36.696",
+        "end": "00:36.996",
+        "text": "Eleven,",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:37.296",
+        "end": "00:40.796",
+        "text": "Twelve, can you please confirm the registered name?",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:42.196",
+        "end": "00:43.396",
+        "text": "Yes.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:46.196",
+        "end": "00:46.896",
+        "text": "What is the name registered?",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:48.346",
+        "end": "00:53.646",
+        "text": "Yes, my name is not coming through. I am not able to set up the application link.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:57.492",
+        "end": "01:00.342",
+        "text": "I am not able to get the application link.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:00.342",
+        "end": "01:00.792",
+        "text": "Yes.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:01.642",
+        "end": "01:07.492",
+        "text": "I am not able to get the application link for the 950 customer.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:08.744",
+        "end": "01:13.244",
+        "text": "The setup application link is not working properly.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:13.244",
+        "end": "01:20.094",
+        "text": "I am not able to get the application link for the 950 customer.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:21.644",
+        "end": "01:23.594",
+        "text": "I am not able to get the application link.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:25.812",
+        "end": "01:27.562",
+        "text": "Okay, USB is not working properly.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:32.162",
+        "end": "01:34.962",
+        "text": "Okay, I am checking it.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:35.812",
+        "end": "01:36.212",
+        "text": "Okay.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:37.162",
+        "end": "01:39.962",
+        "text": "Sir, what is the reason for not being able to connect?",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:00.000",
+        "end": "02:01.050",
+        "text": "I'll hold the record please.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:01.650",
+        "end": "02:02.500",
+        "text": "Thank you.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:03.950",
+        "end": "02:05.700",
+        "text": "You have put the customer on hold.",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:15.550",
+        "end": "02:17.200",
+        "text": "You have put the customer on hold.",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:39.124",
+        "end": "02:40.724",
+        "text": "You have put the customer on hold.",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:55.324",
+        "end": "02:57.124",
+        "text": "You have put the customer on hold.",
+        "speaker": "technician"
+      },
+      {
+        "start": "03:03.348",
+        "end": "03:05.198",
+        "text": "Yeah, I would like to thank you.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:05.248",
+        "end": "03:08.398",
+        "text": "I would like to apologize. It is taking a little too long to connect your call with the call center.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:09.548",
+        "end": "03:10.498",
+        "text": "I didn't get a feeling.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "03:19.798",
+        "end": "03:21.848",
+        "text": "You have put the customer on hold.",
+        "speaker": "technician"
+      },
+      {
+        "start": "03:41.012",
+        "end": "03:42.712",
+        "text": "You have put the customer on hold.",
+        "speaker": "technician"
+      },
+      {
+        "start": "03:56.962",
+        "end": "03:58.912",
+        "text": "You have put the customer on hold.",
+        "speaker": "technician"
+      },
+      {
+        "start": "04:00.000",
+        "end": "04:00.300",
+        "text": "Hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:11.600",
+        "end": "04:13.750",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:33.834",
+        "end": "04:35.334",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:49.834",
+        "end": "04:51.384",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:08.938",
+        "end": "05:10.438",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:22.888",
+        "end": "05:24.388",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:40.052",
+        "end": "05:58.652",
+        "text": "Namaskar, I have a lot of issues. I am not able to hear you properly. I am not able to connect with you. Please help me with my request. I am not able to get the connection. I am not able to hear you properly.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:00.600",
+        "end": "06:09.750",
+        "text": "If you are looking for the billing variant for this month's Jio, it is 228.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:14.050",
+        "end": "06:27.100",
+        "text": "The 198 rupees plan is not available. There is no plan for 30 rupees. There is no plan for 30 rupees. This is for one month.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:28.340",
+        "end": "06:31.990",
+        "text": "There is a good plan and there is a minimum guarantee.",
+        "speaker": "technician"
+      },
+      {
+        "start": "06:31.990",
+        "end": "06:33.540",
+        "text": "Yes, indeed.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:34.090",
+        "end": "06:37.790",
+        "text": "You can get a good plan for your tin.",
+        "speaker": "technician"
+      },
+      {
+        "start": "06:37.790",
+        "end": "06:40.740",
+        "text": "Which is the best variant for you?",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:40.740",
+        "end": "06:42.440",
+        "text": "For the best variant, you can choose.",
+        "speaker": "technician"
+      },
+      {
+        "start": "06:42.440",
+        "end": "06:49.190",
+        "text": "Yes, for the best variant, I will give you the best plan.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:49.190",
+        "end": "06:55.540",
+        "text": "Yes, you can choose the best plan for every month.",
+        "speaker": "technician"
+      },
+      {
+        "start": "06:56.788",
+        "end": "07:05.038",
+        "text": "You can get it for 30 rupees. It will be valid for 30 days.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:05.038",
+        "end": "07:08.738",
+        "text": "There is a good plan for the second subscription.",
+        "speaker": "technician"
+      },
+      {
+        "start": "07:08.738",
+        "end": "07:10.488",
+        "text": "You can get it for one month.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:11.588",
+        "end": "07:12.238",
+        "text": "Yes, you can.",
+        "speaker": "technician"
+      },
+      {
+        "start": "07:12.638",
+        "end": "07:14.088",
+        "text": "They are available for you.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:26.548",
+        "end": "07:27.098",
+        "text": "All the time.",
+        "speaker": "technician"
+      },
+      {
+        "start": "07:32.848",
+        "end": "07:34.148",
+        "text": "What's up everybody?",
+        "speaker": "technician"
+      },
+      {
+        "start": "07:34.598",
+        "end": "07:35.348",
+        "text": "How are you all?",
+        "speaker": "technician"
+      },
+      {
+        "start": "07:41.548",
+        "end": "07:46.998",
+        "text": "Yes, you can get the complete information about your account.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:46.868",
+        "end": "07:52.418",
+        "text": "You can register your number for the service.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:52.418",
+        "end": "07:52.768",
+        "text": "Okay,",
+        "speaker": "technician"
+      },
+      {
+        "start": "07:52.768",
+        "end": "07:57.568",
+        "text": "You can get the complete information about your account.",
+        "speaker": "agent"
+      },
+      {
+        "start": "08:00.168",
+        "end": "08:00.968",
+        "text": "Well...",
+        "speaker": "technician"
+      },
+      {
+        "start": "08:00.000",
+        "end": "08:00.700",
+        "text": "For the first time.",
+        "speaker": "agent"
+      },
+      {
+        "start": "08:02.200",
+        "end": "08:04.450",
+        "text": "In the logs, we are not able to connect.",
+        "speaker": "agent"
+      },
+      {
+        "start": "08:15.050",
+        "end": "08:18.100",
+        "text": "Your time is running out, sir. The line is being created.",
+        "speaker": "agent"
+      },
+      {
+        "start": "08:26.356",
+        "end": "08:26.556",
+        "text": "Voila,",
+        "speaker": "agent"
+      },
+      {
+        "start": "08:26.656",
+        "end": "08:28.656",
+        "text": "I am here like a man.",
+        "speaker": "agent"
+      },
+      {
+        "start": "08:58.516",
+        "end": "08:59.516",
+        "text": "Yes, the line is being created, sir.",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:01.716",
+        "end": "09:02.216",
+        "text": "I too.",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:02.216",
+        "end": "09:02.316",
+        "text": "Goodbye.",
+        "speaker": "customer"
+      },
+      {
+        "start": "09:02.316",
+        "end": "09:04.516",
+        "text": "I will leave, I will be on the line.",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:29.652",
+        "end": "09:31.902",
+        "text": "The recording is not working.",
+        "speaker": "technician"
+      },
+      {
+        "start": "09:43.102",
+        "end": "09:48.052",
+        "text": "The line is not being created. Can you send something to your place?",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:48.052",
+        "end": "09:49.452",
+        "text": "And how much time?",
+        "speaker": "technician"
+      },
+      {
+        "start": "09:52.302",
+        "end": "09:54.252",
+        "text": "It is taking time to create that.",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:55.316",
+        "end": "09:56.366",
+        "text": "Oh, it doesn't matter.",
+        "speaker": "technician"
+      },
+      {
+        "start": "10:04.308",
+        "end": "10:06.608",
+        "text": "Which board do you have?",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:09.858",
+        "end": "10:29.108",
+        "text": "You have to keep the 96 number on the channel, the setup box is on, and you have to keep the 15 minutes setup on the TV.",
+        "speaker": "agent"
+      },
+      {
+        "start": "10:32.116",
+        "end": "10:34.316",
+        "text": "Okay, okay.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:35.616",
+        "end": "10:41.416",
+        "text": "I'll be recording for half an hour something after this and",
+        "speaker": "agent"
+      },
+      {
+        "start": "10:41.416",
+        "end": "10:43.016",
+        "text": "But I've recorded such a record.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:45.616",
+        "end": "10:48.116",
+        "text": "I've recorded a video, now I'm going to be recording.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:48.216",
+        "end": "10:48.466",
+        "text": "You record.",
+        "speaker": "agent"
+      },
+      {
+        "start": "10:48.466",
+        "end": "10:48.516",
+        "text": "Okay.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:48.516",
+        "end": "10:54.966",
+        "text": "It will be done, keep it on 96 number for 15 minutes, turn the setup box TV on.",
+        "speaker": "agent"
+      },
+      {
+        "start": "10:58.964",
+        "end": "10:58.964",
+        "text": "So.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:58.964",
+        "end": "11:00.064",
+        "text": "Thank you.",
+        "speaker": "agent"
+      }
+    ]
+  },
+  "agent_opening_within_5_sec": true,
+  "agent_used_opening_script": false,
+  "agent_used_brand_name": true,
+  "agent_used_closing_script": true,
+  "agent_used_further_assistance_script": false,
+  "agent_used_correct_hold_script": false,
+  "agent_explained_issue_to_l2": false,
+  "agent_followed_escalation_policy": false,
+  "agent_attentive_throughout": true,
+  "agent_probing_logical_and_correct": false,
+  "agent_allowed_customer_to_complete": true,
+  "agent_used_jargon": false,
+  "agent_spoke_in_customer_language": true,
+  "agent_fumbled_or_stammered": false,
+  "agent_shared_proactive_info": false,
+  "customer_experience_sentiment": "positive",
+  "agent_pitched_csat": false,
+  "agent_verified_customer_details": false,
+  "agent_verified_customer_details_reason": "",
+  "agent_ensured_warm_transfer": null,
+  "agent_ensured_warm_transfer_reason": "",
+  "agent_used_absurd_or_abusive_language": false,
+  "agent_used_absurd_or_abusive_language_reason": "",
+  "agent_tone_type": false,
+  "agent_tone_type_reason": "",
+  "agent_communicated_tat": null,
+  "agent_communicated_tat_reason": "",
+  "overall_customer_sentiment": "positive",
+  "initial_customer_sentiment": "neutral",
+  "closure_customer_sentiment": "positive",
+  "agent_excessive_hold_duration": false,
+  "no_of_call_holds": 0,
+  "total_hold_duration": 0,
+  "dead_air": false,
+  "duration_dead_air": 0,
+  "call_dropped": false,
+  "customer_voc": "Customer expressed satisfaction with the agent's assistance regarding the setup box.",
+  "closure_timeline": null,
+  "call_category": [
+    "technical"
+  ],
+  "sub_call_category": [
+    "stb issue"
+  ],
+  "qrc_category": [
+    "request"
+  ],
+  "field_request_asked": false,
+  "error_codes_mentioned": [],
+  "customer_know_the_error_code": false,
+  "issue_resolved": true,
+  "resolution_turn_around_time": 60,
+  "follow_up_required": false,
+  "customer_confirmation_for_resolution": true,
+  "offer_pitched": false,
+  "no_times_offer_pitched": 0,
+  "customer_reaction_to_offer": "neutral",
+  "offer_category": [
+    "others"
+  ],
+  "offer_names_pitched": [],
+  "promotion_of_ott": false,
+  "recharge_accepted": false,
+  "recharge_delayed_reason": [],
+  "promise_of_payment": false,
+  "channel_mentioned": [],
+  "name_of_competitor": [],
+  "d_i_y_pitched": false,
+  "pay_later_requested": false,
+  "pay_later_provided": false,
+  "channel_addition_intended": false,
+  "channel_deletion_intended": false,
+  "charges_customer_refused": false,
+  "charges_customer_refused_reason": "",
+  "no_of_speakers": 2,
+  "first_call_resolution": true,
+  "call_category_remark": "",
+  "channel_category": [],
+  "price_mentioned": 0.0,
+  "is_offer_purchased": false,
+  "offer_purchased": "",
+  "change_in_fmr": 0,
+  "technician_competence": false,
+  "customer_satisfaction_over_technician_visit": "",
+  "technician_behaviour": "",
+  "customer_technician_complain": "",
+  "billing_mode": "",
+  "waivers_requested": false,
+  "waivers_offered": false,
+  "waiver_type": "",
+  "promotion_of_products": false,
+  "competitor_mentioned": false,
+  "qrc_category_remark": "",
+  "multiple_call_mentioned": false,
+  "visit_charges_refused": false,
+  "complaining_about_FMR": false,
+  "watcho_related_issues": false,
+  "app_related_issues": false,
+  "repeat_call_number": 0,
+  "sub_sub_category": [],
+  "processing_time_seconds": 293.76
+}

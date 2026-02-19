@@ -1,0 +1,442 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469949291268248.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:00.948",
+        "end": "00:03.148",
+        "text": "Hello, I am sending your details.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:04.498",
+        "end": "00:11.848",
+        "text": "I am from the Nena region. The TV is not working. There is a single cable connection registered in your name.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:12.798",
+        "end": "00:18.248",
+        "text": "Is your entire setup working? Can you tell me if the connection is registered in your name?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:18.248",
+        "end": "00:20.048",
+        "text": "Yes, I have the same name registered.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:22.248",
+        "end": "00:23.198",
+        "text": "I will confirm the name.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:25.876",
+        "end": "00:30.176",
+        "text": "The name is Jagdeep Kumar.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:30.176",
+        "end": "00:33.276",
+        "text": "No, I am not connected to these names. What is your detail?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:33.326",
+        "end": "00:35.776",
+        "text": "Please hold on.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:35.776",
+        "end": "00:37.876",
+        "text": "My number is 072-0124124.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:39.126",
+        "end": "00:43.626",
+        "text": "599.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:54.028",
+        "end": "00:58.728",
+        "text": "No, I am not getting the line.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:12.228",
+        "end": "01:13.678",
+        "text": "The name is registered.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:15.128",
+        "end": "01:16.378",
+        "text": "The name is Sar Karan Singh.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:17.128",
+        "end": "01:18.178",
+        "text": "This name is not available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:19.156",
+        "end": "01:21.206",
+        "text": "Gagandeep is the name registered.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:21.206",
+        "end": "01:28.306",
+        "text": "Gagandeep is the name registered. The connection is not available in your area.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:28.606",
+        "end": "01:29.006",
+        "text": "Yes.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:30.406",
+        "end": "01:43.156",
+        "text": "It is a connection that is available for you. The connection is available for 99. The connection is available for 589.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:44.906",
+        "end": "01:46.306",
+        "text": "One minute.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:47.604",
+        "end": "01:57.254",
+        "text": "One cable is not available. There is no cable available in your area.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:57.254",
+        "end": "01:58.354",
+        "text": "One cable is available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:00.564",
+        "end": "02:00.914",
+        "text": "Hi,",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:01.014",
+        "end": "02:03.514",
+        "text": "If there is a single cable connection at 99,",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:04.864",
+        "end": "02:06.964",
+        "text": "the single cable connection is at 99.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:07.064",
+        "end": "02:10.364",
+        "text": "You have a connection of 200, which is also available,",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:10.414",
+        "end": "02:22.764",
+        "text": "if there is a single cable connection like the one at 589, then 200 is available, and the pending payment is for a single cable recharge. If you want to recharge, you can do it through Dish TV.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:22.964",
+        "end": "02:23.914",
+        "text": "Okay.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:26.772",
+        "end": "02:29.672",
+        "text": "Your single transaction is being handled.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:29.772",
+        "end": "02:33.222",
+        "text": "The charge will be 589 or 799.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:36.722",
+        "end": "02:42.922",
+        "text": "Your name is, if there is a single cable connection, it is available as you are registered.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:42.972",
+        "end": "02:45.172",
+        "text": "It is 589, it is correct.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:45.222",
+        "end": "02:47.822",
+        "text": "Then 230 is available in this area, 200.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:48.072",
+        "end": "02:52.972",
+        "text": "Then you can proceed with the pending payment, and they will provide the service.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:53.908",
+        "end": "02:56.608",
+        "text": "Yes, 389 and it can be recharged.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:57.458",
+        "end": "02:58.008",
+        "text": "How much?",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:01.458",
+        "end": "03:05.858",
+        "text": "Yes, 89 if there is a single cable connection, can you provide the complete details?",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:06.258",
+        "end": "03:06.808",
+        "text": "Okay.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:08.158",
+        "end": "03:12.758",
+        "text": "They are maintaining the connection, which is registered in your name.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:13.858",
+        "end": "03:15.458",
+        "text": "Is it available for you?",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:16.008",
+        "end": "03:17.758",
+        "text": "Yes, it will be available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:18.836",
+        "end": "03:29.836",
+        "text": "You have a single cable connection that is available for you, which is registered under your name. It will be available for you.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:30.786",
+        "end": "03:42.236",
+        "text": "You have a connection that is available for you, which is registered under your name. It will be available for you.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:00.000",
+        "end": "04:03.350",
+        "text": "The active home payment will be a separate recharge.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:03.350",
+        "end": "04:15.100",
+        "text": "Yes, I have that too. I have 389 available or 399 as well.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:15.100",
+        "end": "04:17.350",
+        "text": "Yes, it will be an active recharge.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:18.350",
+        "end": "04:20.800",
+        "text": "You can call for that.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:20.800",
+        "end": "04:24.500",
+        "text": "Recharge will be done after that call. It will be an active recharge.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:24.850",
+        "end": "04:26.650",
+        "text": "I think it is available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:27.252",
+        "end": "04:34.952",
+        "text": "You can take the channel from the MyDishTV application. You can also delete the channel from the application.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:37.202",
+        "end": "04:40.352",
+        "text": "For deleting the channel and for adding the channel.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:40.852",
+        "end": "04:44.852",
+        "text": "Yes, you can delete it from the MyDishTV application.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:45.852",
+        "end": "04:46.652",
+        "text": "Okay, understood.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:47.348",
+        "end": "04:47.848",
+        "text": "That's correct.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:47.898",
+        "end": "04:54.098",
+        "text": "You are registered with the old account, but it will still show you the new details.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:54.448",
+        "end": "04:58.698",
+        "text": "So, it will show you the old account. You are registered with the same account.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:59.198",
+        "end": "05:01.448",
+        "text": "Yes, I understand.",
+        "speaker": "customer"
+      }
+    ]
+  },
+  "agent_opening_within_5_sec": true,
+  "agent_used_opening_script": false,
+  "agent_used_brand_name": true,
+  "agent_used_closing_script": null,
+  "agent_used_further_assistance_script": null,
+  "agent_used_correct_hold_script": false,
+  "agent_explained_issue_to_l2": false,
+  "agent_followed_escalation_policy": false,
+  "agent_attentive_throughout": true,
+  "agent_probing_logical_and_correct": false,
+  "agent_allowed_customer_to_complete": true,
+  "agent_used_jargon": false,
+  "agent_spoke_in_customer_language": false,
+  "agent_fumbled_or_stammered": false,
+  "agent_shared_proactive_info": false,
+  "customer_experience_sentiment": "positive",
+  "agent_pitched_csat": false,
+  "agent_verified_customer_details": false,
+  "agent_verified_customer_details_reason": "Agent did not request customer account details",
+  "agent_ensured_warm_transfer": null,
+  "agent_ensured_warm_transfer_reason": "",
+  "agent_used_absurd_or_abusive_language": false,
+  "agent_used_absurd_or_abusive_language_reason": "",
+  "agent_tone_type": false,
+  "agent_tone_type_reason": "",
+  "agent_communicated_tat": false,
+  "agent_communicated_tat_reason": "",
+  "overall_customer_sentiment": "positive",
+  "initial_customer_sentiment": "neutral",
+  "closure_customer_sentiment": "positive",
+  "agent_excessive_hold_duration": false,
+  "no_of_call_holds": 0,
+  "total_hold_duration": 0,
+  "dead_air": false,
+  "duration_dead_air": 0,
+  "call_dropped": false,
+  "customer_voc": "Customer inquired about recharge options and application usage.",
+  "closure_timeline": null,
+  "call_category": [
+    "account related"
+  ],
+  "sub_call_category": [
+    "account update"
+  ],
+  "qrc_category": [
+    "query"
+  ],
+  "field_request_asked": false,
+  "error_codes_mentioned": [],
+  "customer_know_the_error_code": false,
+  "issue_resolved": true,
+  "resolution_turn_around_time": 60,
+  "follow_up_required": false,
+  "customer_confirmation_for_resolution": true,
+  "offer_pitched": false,
+  "no_times_offer_pitched": 0,
+  "customer_reaction_to_offer": "neutral",
+  "offer_category": [],
+  "offer_names_pitched": [],
+  "promotion_of_ott": false,
+  "recharge_accepted": false,
+  "recharge_delayed_reason": [],
+  "promise_of_payment": false,
+  "channel_mentioned": [],
+  "name_of_competitor": [],
+  "d_i_y_pitched": true,
+  "pay_later_requested": false,
+  "pay_later_provided": false,
+  "channel_addition_intended": false,
+  "channel_deletion_intended": false,
+  "charges_customer_refused": false,
+  "charges_customer_refused_reason": "",
+  "no_of_speakers": 2,
+  "first_call_resolution": true,
+  "call_category_remark": "",
+  "channel_category": [],
+  "price_mentioned": 0.0,
+  "is_offer_purchased": false,
+  "offer_purchased": null,
+  "change_in_fmr": 0,
+  "technician_competence": false,
+  "customer_satisfaction_over_technician_visit": "",
+  "technician_behaviour": "",
+  "customer_technician_complain": "",
+  "billing_mode": "",
+  "waivers_requested": false,
+  "waivers_offered": false,
+  "waiver_type": "",
+  "promotion_of_products": false,
+  "competitor_mentioned": false,
+  "qrc_category_remark": "",
+  "multiple_call_mentioned": false,
+  "visit_charges_refused": false,
+  "complaining_about_FMR": false,
+  "watcho_related_issues": false,
+  "app_related_issues": true,
+  "repeat_call_number": 0,
+  "sub_sub_category": [],
+  "processing_time_seconds": 217.18
+}

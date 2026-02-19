@@ -1,0 +1,376 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469948593330862.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:00.532",
+        "end": "00:01.332",
+        "text": "Hello",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:03.332",
+        "end": "00:04.182",
+        "text": "Good sir,",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:04.382",
+        "end": "00:08.182",
+        "text": "My name is Ajur, I am from Dish TV.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:08.232",
+        "end": "00:10.232",
+        "text": "Hello,",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:12.032",
+        "end": "00:14.182",
+        "text": "Hello, can you see",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:14.182",
+        "end": "00:18.932",
+        "text": "Sir, your Wi-Fi is not working properly.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:19.532",
+        "end": "00:21.282",
+        "text": "It is not giving a stable connection.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:24.832",
+        "end": "00:26.832",
+        "text": "It is showing a connection issue.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:27.572",
+        "end": "00:28.722",
+        "text": "Oh, okay.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:32.522",
+        "end": "00:37.022",
+        "text": "Sir, the connection is good.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:38.272",
+        "end": "00:45.022",
+        "text": "The number is 02543292210, it is correct.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:45.022",
+        "end": "00:45.872",
+        "text": "Oh, our service.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:47.322",
+        "end": "00:49.122",
+        "text": "This is not showing a good signal.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:51.372",
+        "end": "00:53.122",
+        "text": "It is showing a weak signal.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:53.972",
+        "end": "00:54.322",
+        "text": "Ah.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:10.422",
+        "end": "01:14.122",
+        "text": "Sir, you don't have a starter package, so you can't see it.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:14.172",
+        "end": "01:16.172",
+        "text": "You have a starter HSM pack.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:17.332",
+        "end": "01:27.782",
+        "text": "Its charge is ₹225, it is included in the package.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:27.572",
+        "end": "01:28.722",
+        "text": "It is not included.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:32.522",
+        "end": "01:37.022",
+        "text": "Sir, it is ₹225 for the starter package.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:38.272",
+        "end": "01:45.022",
+        "text": "It is not available for the starter package.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:45.022",
+        "end": "01:45.872",
+        "text": "Oh, okay.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:47.322",
+        "end": "01:49.122",
+        "text": "This is not showing a good signal.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:51.372",
+        "end": "01:53.122",
+        "text": "It is showing a weak signal.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:53.972",
+        "end": "01:54.322",
+        "text": "Ah.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:10.422",
+        "end": "01:14.122",
+        "text": "Sir, you don't have a starter package, so you can't see it.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:14.172",
+        "end": "01:16.172",
+        "text": "You have a starter HSM pack.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:17.332",
+        "end": "01:27.782",
+        "text": "Its charge is ₹225, it is included in the package.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:27.572",
+        "end": "01:28.722",
+        "text": "It is not included.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:32.522",
+        "end": "01:37.022",
+        "text": "Sir, it is ₹225 for the starter package.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:38.272",
+        "end": "01:45.022",
+        "text": "It is not available for the starter package.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:45.022",
+        "end": "01:45.872",
+        "text": "Oh, okay.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:00.000",
+        "end": "02:04.500",
+        "text": "You can also make a request for the Dish TV service.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:04.500",
+        "end": "02:04.800",
+        "text": "Okay.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:04.800",
+        "end": "02:22.400",
+        "text": "If you want to activate the Dish TV service, you can provide the number of the Dish TV connection, which is 925. You can also provide the number for 15 minutes.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:24.820",
+        "end": "02:31.420",
+        "text": "You can also get the service for your connection.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:31.420",
+        "end": "02:38.620",
+        "text": "And how can we activate the Dish TV service for you?",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:39.170",
+        "end": "02:39.670",
+        "text": "Mobile.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:39.670",
+        "end": "02:39.920",
+        "text": "Application.",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:39.920",
+        "end": "02:46.220",
+        "text": "You can also use the application to check the package that is currently active.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:47.028",
+        "end": "02:49.528",
+        "text": "The package is not available for activation.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:49.628",
+        "end": "02:50.028",
+        "text": "Package.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:50.028",
+        "end": "02:50.428",
+        "text": "Yes.",
+        "speaker": "technician"
+      },
+      {
+        "start": "02:50.428",
+        "end": "02:54.328",
+        "text": "The package cannot be activated, and the package is not available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:54.328",
+        "end": "02:56.578",
+        "text": "Okay, okay, okay.",
+        "speaker": "technician"
+      }
+    ]
+  },
+  "agent_opening_within_5_sec": true,
+  "agent_used_opening_script": false,
+  "agent_used_brand_name": true,
+  "agent_used_closing_script": null,
+  "agent_used_further_assistance_script": null,
+  "agent_used_correct_hold_script": false,
+  "agent_explained_issue_to_l2": false,
+  "agent_followed_escalation_policy": false,
+  "agent_attentive_throughout": true,
+  "agent_probing_logical_and_correct": false,
+  "agent_allowed_customer_to_complete": true,
+  "agent_used_jargon": false,
+  "agent_spoke_in_customer_language": true,
+  "agent_fumbled_or_stammered": false,
+  "agent_shared_proactive_info": false,
+  "customer_experience_sentiment": "neutral",
+  "agent_pitched_csat": false,
+  "agent_verified_customer_details": false,
+  "agent_verified_customer_details_reason": "Agent did not request customer account details",
+  "agent_ensured_warm_transfer": null,
+  "agent_ensured_warm_transfer_reason": "",
+  "agent_used_absurd_or_abusive_language": false,
+  "agent_used_absurd_or_abusive_language_reason": "",
+  "agent_tone_type": false,
+  "agent_tone_type_reason": "",
+  "agent_communicated_tat": null,
+  "agent_communicated_tat_reason": "",
+  "overall_customer_sentiment": "neutral",
+  "initial_customer_sentiment": "neutral",
+  "closure_customer_sentiment": "neutral",
+  "agent_excessive_hold_duration": false,
+  "no_of_call_holds": 0,
+  "total_hold_duration": 0,
+  "dead_air": false,
+  "duration_dead_air": 0,
+  "call_dropped": false,
+  "customer_voc": "Customer inquired about activating Dish TV service but faced issues with package availability.",
+  "closure_timeline": null,
+  "call_category": [
+    "service related"
+  ],
+  "sub_call_category": [
+    "installation related"
+  ],
+  "qrc_category": [
+    "request"
+  ],
+  "field_request_asked": false,
+  "error_codes_mentioned": [],
+  "customer_know_the_error_code": false,
+  "issue_resolved": false,
+  "resolution_turn_around_time": 0,
+  "follow_up_required": false,
+  "customer_confirmation_for_resolution": false,
+  "offer_pitched": false,
+  "no_times_offer_pitched": 0,
+  "customer_reaction_to_offer": "neutral",
+  "offer_category": [],
+  "offer_names_pitched": [],
+  "promotion_of_ott": false,
+  "recharge_accepted": false,
+  "recharge_delayed_reason": [],
+  "promise_of_payment": false,
+  "channel_mentioned": [],
+  "name_of_competitor": [],
+  "d_i_y_pitched": true,
+  "pay_later_requested": false,
+  "pay_later_provided": false,
+  "channel_addition_intended": false,
+  "channel_deletion_intended": false,
+  "charges_customer_refused": false,
+  "charges_customer_refused_reason": "",
+  "no_of_speakers": 5,
+  "first_call_resolution": false,
+  "call_category_remark": "",
+  "channel_category": [],
+  "price_mentioned": 0.0,
+  "is_offer_purchased": false,
+  "offer_purchased": "",
+  "change_in_fmr": 0,
+  "technician_competence": true,
+  "customer_satisfaction_over_technician_visit": "",
+  "technician_behaviour": "",
+  "customer_technician_complain": "",
+  "billing_mode": "",
+  "waivers_requested": false,
+  "waivers_offered": false,
+  "waiver_type": "",
+  "promotion_of_products": false,
+  "competitor_mentioned": false,
+  "qrc_category_remark": "",
+  "multiple_call_mentioned": false,
+  "visit_charges_refused": false,
+  "complaining_about_FMR": false,
+  "watcho_related_issues": false,
+  "app_related_issues": true,
+  "repeat_call_number": 0,
+  "sub_sub_category": [],
+  "processing_time_seconds": 128.34
+}

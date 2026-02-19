@@ -1,0 +1,575 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469950297550475.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:02.164",
+        "end": "00:03.314",
+        "text": "Hello,",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:04.664",
+        "end": "00:05.164",
+        "text": "Hello,",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:06.114",
+        "end": "00:07.714",
+        "text": "Halima has to get me married.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:07.964",
+        "end": "00:12.464",
+        "text": "No, no, I have put it on TV. I have put it on the Android to record the profile.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:15.414",
+        "end": "00:20.064",
+        "text": "Okay, so first tell us your GPT number or registration number so we can confirm it.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:20.814",
+        "end": "00:25.314",
+        "text": "And this GPT number is 015 0254",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:25.564",
+        "end": "00:27.814",
+        "text": "0254",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:30.196",
+        "end": "00:31.396",
+        "text": "One second.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:34.096",
+        "end": "00:38.596",
+        "text": "One new connection is registered in the name of Purkar.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:45.346",
+        "end": "00:47.596",
+        "text": "Yes, it is registered.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:48.946",
+        "end": "00:53.646",
+        "text": "Earlier, my username code was not available in the system.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:55.796",
+        "end": "00:57.196",
+        "text": "It is available now.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:57.492",
+        "end": "00:59.492",
+        "text": "And the other details are also available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:59.492",
+        "end": "01:00.592",
+        "text": "Not pending.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:01.742",
+        "end": "01:08.492",
+        "text": "And the other details are also available, but the subscription is not available for 950 customers.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:20.744",
+        "end": "02:27.344",
+        "text": "The subscription is available for the complete record.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:27.344",
+        "end": "02:30.844",
+        "text": "No, the previous code is not available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:32.394",
+        "end": "02:34.644",
+        "text": "No, the previous code is not available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:41.244",
+        "end": "02:43.544",
+        "text": "So, the USB device is activated.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:45.812",
+        "end": "02:47.612",
+        "text": "Okay, USB 16 GB, sir.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:52.062",
+        "end": "02:52.661",
+        "text": "Okay,",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:52.712",
+        "end": "02:53.562",
+        "text": "I will check, sir.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:57.112",
+        "end": "03:00.112",
+        "text": "Sir, can I check to give your call a hold?",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:03.862",
+        "end": "03:05.562",
+        "text": "You have put the customer on hold.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "03:21.588",
+        "end": "03:23.238",
+        "text": "You have put the customer on hold.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "03:56.692",
+        "end": "03:58.292",
+        "text": "You have put the customer on hold.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "03:05.104",
+        "end": "03:08.904",
+        "text": "I am currently on hold for a longer time.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:19.304",
+        "end": "03:21.604",
+        "text": "You have put the customer on hold.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:41.012",
+        "end": "03:42.662",
+        "text": "You have put the customer on hold.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:56.162",
+        "end": "03:58.062",
+        "text": "You have put the customer on hold.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:16.116",
+        "end": "04:17.766",
+        "text": "You have put the customer on hold.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:31.266",
+        "end": "04:32.766",
+        "text": "You have put the customer on hold.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:51.220",
+        "end": "04:52.820",
+        "text": "You have put the customer on hold.",
+        "speaker": "customer"
+      },
+      {
+        "start": "05:26.324",
+        "end": "05:27.974",
+        "text": "You have put the customer on hold.",
+        "speaker": "customer"
+      },
+      {
+        "start": "05:27.974",
+        "end": "05:52.824",
+        "text": "I am not able to record your request right now.",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:53.620",
+        "end": "05:53.970",
+        "text": "No.",
+        "speaker": "customer"
+      },
+      {
+        "start": "05:54.520",
+        "end": "05:56.020",
+        "text": "So, I'm going to ask for recording,",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:56.120",
+        "end": "05:58.220",
+        "text": "since they can't start recording, no,",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:58.370",
+        "end": "05:58.520",
+        "text": "right?",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:01.250",
+        "end": "06:10.250",
+        "text": "If you are asking, if you are asking, this is the same musical that is there, that is the price of 128.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:14.750",
+        "end": "06:27.150",
+        "text": "198 rupees, 96 price, that is also musical. If you want to take a month, sir, that is 30 rupees, 30 rupees including GST for 30 days.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:28.340",
+        "end": "06:31.990",
+        "text": "There is no such thing as a good one.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:31.990",
+        "end": "06:33.790",
+        "text": "Yes, that's right.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:34.090",
+        "end": "06:36.840",
+        "text": "You can do something with your internet.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:37.740",
+        "end": "06:40.540",
+        "text": "Which server is there for you to ask?",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:40.540",
+        "end": "06:41.890",
+        "text": "The Tangi Van Mand is not working.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:42.490",
+        "end": "06:44.490",
+        "text": "Yes, sir, the Van Mand is working.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:45.940",
+        "end": "06:48.190",
+        "text": "That Tangi Ruby Van Mand is not working.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:48.190",
+        "end": "06:50.440",
+        "text": "Yes, sir, that is also Ruby.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:50.740",
+        "end": "06:55.390",
+        "text": "That means, if you want to take every time, that Tangi Ruby will be available every time.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:56.788",
+        "end": "07:04.288",
+        "text": "Which Van Mand will be there for you? That will be 30 rupees, that will be paid for 30 days, after that it will be available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:05.138",
+        "end": "07:07.888",
+        "text": "You can do something with the recording.",
+        "speaker": "customer"
+      },
+      {
+        "start": "07:08.388",
+        "end": "07:10.488",
+        "text": "You can do something with this.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:11.488",
+        "end": "07:12.238",
+        "text": "Yes, that's right.",
+        "speaker": "customer"
+      },
+      {
+        "start": "07:12.738",
+        "end": "07:14.238",
+        "text": "The Rocky Sir line is still there.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:26.548",
+        "end": "07:26.548",
+        "text": "So,",
+        "speaker": "customer"
+      },
+      {
+        "start": "07:26.598",
+        "end": "07:27.848",
+        "text": "we just have to wait.",
+        "speaker": "customer"
+      },
+      {
+        "start": "07:41.548",
+        "end": "07:46.898",
+        "text": "Yes, you will be able to get the complete details of your account, you want to know.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:46.868",
+        "end": "07:57.618",
+        "text": "Your account registration number is 23, it is 1002 0000, you will get the complete details of your account.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:58.468",
+        "end": "07:59.118",
+        "text": "Okay,",
+        "speaker": "customer"
+      },
+      {
+        "start": "07:59.218",
+        "end": "08:00.518",
+        "text": "let's lose it now.",
+        "speaker": "customer"
+      },
+      {
+        "start": "08:01.918",
+        "end": "08:04.168",
+        "text": "Yes, you will be able to do this.",
+        "speaker": "agent"
+      },
+      {
+        "start": "08:15.092",
+        "end": "08:18.242",
+        "text": "You can keep the old account, you can keep the old line.",
+        "speaker": "agent"
+      },
+      {
+        "start": "08:19.442",
+        "end": "08:20.092",
+        "text": "Okay.",
+        "speaker": "customer"
+      },
+      {
+        "start": "08:24.692",
+        "end": "08:25.892",
+        "text": "Goodbye.",
+        "speaker": "customer"
+      },
+      {
+        "start": "08:26.992",
+        "end": "08:28.042",
+        "text": "Who speaks Italian?",
+        "speaker": "customer"
+      },
+      {
+        "start": "08:41.908",
+        "end": "08:42.958",
+        "text": "I don't know.",
+        "speaker": "customer"
+      },
+      {
+        "start": "08:51.958",
+        "end": "08:52.708",
+        "text": "I don't know.",
+        "speaker": "customer"
+      },
+      {
+        "start": "08:58.608",
+        "end": "08:59.308",
+        "text": "I am a dancer.",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:01.748",
+        "end": "09:04.498",
+        "text": "Hello, this is Diksha speaking. Please stay on the line.",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:29.588",
+        "end": "09:30.688",
+        "text": "That is indeed a hope.",
+        "speaker": "customer"
+      },
+      {
+        "start": "09:43.288",
+        "end": "09:44.438",
+        "text": "Sir, is the line still connected?",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:44.488",
+        "end": "09:47.038",
+        "text": "I can hold your call for a few seconds.",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:48.038",
+        "end": "09:48.888",
+        "text": "Yes, I know.",
+        "speaker": "customer"
+      },
+      {
+        "start": "09:48.938",
+        "end": "09:49.538",
+        "text": "That is indeed the case.",
+        "speaker": "customer"
+      },
+      {
+        "start": "09:51.888",
+        "end": "09:52.338",
+        "text": "Sir,",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:52.388",
+        "end": "09:54.188",
+        "text": "it is taking a little time to activate.",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:55.284",
+        "end": "09:57.334",
+        "text": "He is in those places.",
+        "speaker": "customer"
+      },
+      {
+        "start": "09:57.334",
+        "end": "10:20.784",
+        "text": "It is not showing in the latest updates.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:20.784",
+        "end": "10:20.784",
+        "text": "Okay,",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:20.784",
+        "end": "10:22.010",
+        "text": "you can see our display.",
+        "speaker": "agent"
+      },
+      {
+        "start": "10:22.110",
+        "end": "10:24.360",
+        "text": "It is connected to our system.",
+        "speaker": "agent"
+      },
+      {
+        "start": "10:24.360",
+        "end": "10:25.160",
+        "text": "Okay,",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:25.160",
+        "end": "10:31.910",
+        "text": "your recording is there, you will see it with your connection.",
+        "speaker": "agent"
+      },
+      {
+        "start": "10:31.910",
+        "end": "10:35.910",
+        "text": "This recording is also about the service you are receiving.",
+        "speaker": "agent"
+      },
+      {
+        "start": "10:45.812",
+        "end": "10:46.662",
+        "text": "Have a good day.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:46.862",
+        "end": "10:48.162",
+        "text": "Your mom will give you the control.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:48.312",
+        "end": "10:49.012",
+        "text": "If it gets cold,",
+        "speaker": "agent"
+      },
+      {
+        "start": "10:49.462",
+        "end": "10:52.512",
+        "text": "then put it on number 96 to keep the setup box on.",
+        "speaker": "agent"
+      },
+      {
+        "start": "10:52.612",
+        "end": "10:54.862",
+        "text": "You can set up the box with your own hands.",
+        "speaker": "agent"
+      },
+      {
+        "start": "10:58.812",
+        "end": "11:00.562",
+        "text": "Okay. We are ready to receive your calls.",
+        "speaker": "agent"
+      },
+      {
+        "start": "11:00.612",
+        "end": "11:03.062",
+        "text": "You can contact me if I never said Cathy has to tell you what you want to see.",
+        "speaker": "agent"
+      },
+      {
+        "start": "11:05.162",
+        "end": "11:07.412",
+        "text": "If you want to get a seat, I can give you.",
+        "speaker": "agent"
+      }
+    ]
+  },
+  "call_summary": "The customer inquired about their service updates and the agent provided information regarding the connection and setup of the service.",
+  "issue_resolved": "yes",
+  "speakers_identified": [
+    "agent",
+    "customer"
+  ],
+  "language_used": "English",
+  "sentiment": "neutral",
+  "total_segments": 30,
+  "processing_time_seconds": 279.57
+}

@@ -1,0 +1,299 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469949291268248.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:00.948",
+        "end": "00:02.998",
+        "text": "Must be the same for every recharge.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:04.498",
+        "end": "00:12.848",
+        "text": "My name is Narita. The TV is not working. It has been a year since the last recharge.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:13.098",
+        "end": "00:17.398",
+        "text": "Is there any issue with the connection? Can you tell me the name of the registered area?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:18.448",
+        "end": "00:20.098",
+        "text": "My name is Karam Singh.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:21.598",
+        "end": "00:23.248",
+        "text": "That's the correct name.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:25.876",
+        "end": "00:29.276",
+        "text": "I know that Deepak Raj is the name.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:29.976",
+        "end": "00:33.676",
+        "text": "No, I am not able to connect to the internet for recharging.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:35.476",
+        "end": "00:42.176",
+        "text": "I am using your Wi-Fi number for the connection.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:42.676",
+        "end": "00:43.226",
+        "text": "Wi-Fi number.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:44.826",
+        "end": "00:51.676",
+        "text": "The Wi-Fi number is 590.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:52.628",
+        "end": "00:54.528",
+        "text": "5, 9, 0.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:54.678",
+        "end": "00:54.878",
+        "text": "9.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:55.778",
+        "end": "00:59.178",
+        "text": "Yes, I know that.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:11.928",
+        "end": "01:14.178",
+        "text": "The name of the connection is registered.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:14.178",
+        "end": "01:16.378",
+        "text": "The name is not available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:16.378",
+        "end": "01:18.228",
+        "text": "The connection is not available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:18.228",
+        "end": "01:20.006",
+        "text": "The name is not available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:20.006",
+        "end": "01:22.156",
+        "text": "The name is not available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:22.254",
+        "end": "01:23.604",
+        "text": "The name is not available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:24.948",
+        "end": "01:42.698",
+        "text": "The name of the connection is 799. The connection is not available for the last recharge.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:45.398",
+        "end": "01:52.848",
+        "text": "Please check your single transaction for recharging.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:54.292",
+        "end": "01:58.592",
+        "text": "Yes, I am trying to recharge.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:59.492",
+        "end": "02:14.192",
+        "text": "I am trying to recharge the same amount as before.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:14.192",
+        "end": "02:17.042",
+        "text": "Please check the record.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:00.000",
+        "end": "03:00.400",
+        "text": "T9.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:01.350",
+        "end": "03:05.950",
+        "text": "TST9, I am here to provide you with a complete solution.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:08.350",
+        "end": "03:08.850",
+        "text": "Okay.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:10.100",
+        "end": "03:12.850",
+        "text": "It is fine, you were doing this, it will be taken care of.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:14.350",
+        "end": "03:16.600",
+        "text": "Is it possible to do this?",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:16.850",
+        "end": "03:17.850",
+        "text": "It will be done.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:19.100",
+        "end": "03:25.050",
+        "text": "My name is Narita. Our channel is not working. It has been a year since the last recharge.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:25.908",
+        "end": "03:42.308",
+        "text": "Is there any issue with the connection? Can you tell me the name of the registered area? My name is Karam Singh. That's the correct name. I know that Deepak Raj is the name.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:43.284",
+        "end": "04:02.334",
+        "text": "No, I am not able to connect to the internet for recharging. I am using your Wi-Fi number for the connection.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:03.444",
+        "end": "04:14.544",
+        "text": "The Wi-Fi number is 590. 5, 9, 0. 9. Yes, I know that. The name of the connection is registered.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:14.844",
+        "end": "04:17.344",
+        "text": "The name is not available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:18.144",
+        "end": "04:20.394",
+        "text": "The connection is not available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:20.844",
+        "end": "04:24.494",
+        "text": "The name is not available. The name is not available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:24.794",
+        "end": "04:26.644",
+        "text": "The name of the connection is 799.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:27.252",
+        "end": "04:32.202",
+        "text": "The connection is not available for the last recharge. Please check your single transaction for recharging.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:32.502",
+        "end": "04:35.152",
+        "text": "Yes, I am trying to recharge.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:37.252",
+        "end": "04:00.452",
+        "text": "I am trying to recharge the same amount as before. Please check the record.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:00.801",
+        "end": "04:04.902",
+        "text": "Okay, thank you.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:05.952",
+        "end": "04:06.702",
+        "text": "Thank you so much.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:07.348",
+        "end": "04:07.798",
+        "text": "Thank you so much.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:07.848",
+        "end": "04:08.348",
+        "text": "Thank you so much for your time.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:08.348",
+        "end": "04:08.798",
+        "text": "I will see you in the next video.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:09.548",
+        "end": "04:11.248",
+        "text": "Thank you so much.",
+        "speaker": "customer"
+      }
+    ]
+  },
+  "call_summary": "The customer reported issues with their channel not working and difficulties in recharging due to internet connection problems. The agent assured the customer that the issue would be addressed.",
+  "issue_resolved": "partial",
+  "speakers_identified": [
+    "agent",
+    "customer"
+  ],
+  "language_used": "English",
+  "sentiment": "neutral",
+  "total_segments": 30,
+  "processing_time_seconds": 159.45
+}

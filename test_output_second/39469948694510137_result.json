@@ -1,0 +1,392 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469948694510137.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:00.884",
+        "end": "00:01.584",
+        "text": "Hello,",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:01.634",
+        "end": "00:02.784",
+        "text": "the question is that you have to answer.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:03.784",
+        "end": "00:04.634",
+        "text": "Hello.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:05.934",
+        "end": "00:06.484",
+        "text": "Hello.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:08.184",
+        "end": "00:08.634",
+        "text": "Hello.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:10.734",
+        "end": "00:11.284",
+        "text": "Hello.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:13.834",
+        "end": "00:14.584",
+        "text": "Sir? Hello.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:14.984",
+        "end": "00:15.884",
+        "text": "Hello.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:16.334",
+        "end": "00:17.084",
+        "text": "Hello sir,",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:17.134",
+        "end": "00:18.284",
+        "text": "what was I saying just now, sir?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:19.184",
+        "end": "00:23.934",
+        "text": "My name is Sundaram Dalski. This is our society, right?",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:24.980",
+        "end": "00:39.180",
+        "text": "The connection from the previous time has been lost. Is there any channel available?",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:41.280",
+        "end": "00:43.180",
+        "text": "Is there any channel?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:43.330",
+        "end": "00:48.430",
+        "text": "The channel package 370 is available. Please check.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:49.280",
+        "end": "00:50.030",
+        "text": "Is it yours?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:51.380",
+        "end": "00:51.880",
+        "text": "What happened?",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:52.230",
+        "end": "00:53.980",
+        "text": "Is it the name of the internet connection?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:54.730",
+        "end": "00:56.080",
+        "text": "Mukesh Kumar is the name.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:56.680",
+        "end": "00:57.230",
+        "text": "No?",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:58.380",
+        "end": "01:00.180",
+        "text": "Mukesh Kumar is not available, right?",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:00.680",
+        "end": "01:04.030",
+        "text": "Your name is still there, right? The service is still available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:05.480",
+        "end": "01:06.880",
+        "text": "Mukesh Kumar is the name.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:08.180",
+        "end": "01:13.180",
+        "text": "The other channel is also available. Mukesh Kumar is the name.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:14.430",
+        "end": "01:16.030",
+        "text": "Is there any other name?",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:16.030",
+        "end": "01:17.996",
+        "text": "You are saying that it is not available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "01:18.096",
+        "end": "01:19.596",
+        "text": "Is it available?",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:00.212",
+        "end": "02:03.212",
+        "text": "Hello, is this the right time to talk?",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:03.212",
+        "end": "02:09.912",
+        "text": "Yes, yes, which channel is currently active on HB channel?",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:10.512",
+        "end": "02:14.962",
+        "text": "There are two HD channels available, but there is no channel for the other one.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:14.962",
+        "end": "02:17.212",
+        "text": "The number is channel number.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:17.212",
+        "end": "02:22.762",
+        "text": "There are different types of channels available, and they are all different.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:23.662",
+        "end": "02:25.062",
+        "text": "624 is the number given.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:33.364",
+        "end": "02:38.164",
+        "text": "Please provide the channel number for the given channel.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:41.714",
+        "end": "02:42.564",
+        "text": "The channel is available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:43.264",
+        "end": "02:45.514",
+        "text": "Yes, yes, those channels are available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:47.264",
+        "end": "02:50.164",
+        "text": "The channel is available, but there is nothing else.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:50.314",
+        "end": "02:54.614",
+        "text": "The other channel is also available, but it is not working.",
+        "speaker": "agent"
+      },
+      {
+        "start": "02:55.860",
+        "end": "03:05.860",
+        "text": "The family pack is available, and it includes the channels that are available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:05.860",
+        "end": "03:14.060",
+        "text": "325 is the number, and 325 is the other number.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:16.160",
+        "end": "03:17.860",
+        "text": "The port is available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:20.810",
+        "end": "04:23.360",
+        "text": "Yes, it is not available in the family pack.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:24.148",
+        "end": "04:24.498",
+        "text": "Hey,",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:24.648",
+        "end": "04:25.598",
+        "text": "he's taking a break.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:26.798",
+        "end": "04:27.998",
+        "text": "300-350,",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:28.148",
+        "end": "04:30.698",
+        "text": "if there's a channel light, he'll take care of it, right?",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:33.248",
+        "end": "04:38.398",
+        "text": "Okay, fine, then at least stop 624 and let the rest of it happen.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:38.798",
+        "end": "04:40.548",
+        "text": "Isn't he going to call you whenever, sir?",
+        "speaker": "customer"
+      }
+    ]
+  },
+  "agent_opening_within_5_sec": true,
+  "agent_used_opening_script": true,
+  "agent_used_brand_name": true,
+  "agent_used_closing_script": null,
+  "agent_used_further_assistance_script": null,
+  "agent_used_correct_hold_script": false,
+  "agent_explained_issue_to_l2": false,
+  "agent_followed_escalation_policy": false,
+  "agent_attentive_throughout": true,
+  "agent_probing_logical_and_correct": true,
+  "agent_allowed_customer_to_complete": true,
+  "agent_used_jargon": false,
+  "agent_spoke_in_customer_language": false,
+  "agent_fumbled_or_stammered": false,
+  "agent_shared_proactive_info": false,
+  "customer_experience_sentiment": "neutral",
+  "agent_pitched_csat": false,
+  "agent_verified_customer_details": false,
+  "agent_verified_customer_details_reason": "Agent did not request customer account details",
+  "agent_ensured_warm_transfer": null,
+  "agent_ensured_warm_transfer_reason": "",
+  "agent_used_absurd_or_abusive_language": false,
+  "agent_used_absurd_or_abusive_language_reason": "",
+  "agent_tone_type": false,
+  "agent_tone_type_reason": "",
+  "agent_communicated_tat": null,
+  "agent_communicated_tat_reason": "",
+  "overall_customer_sentiment": "neutral",
+  "initial_customer_sentiment": "neutral",
+  "closure_customer_sentiment": "neutral",
+  "agent_excessive_hold_duration": false,
+  "no_of_call_holds": 0,
+  "total_hold_duration": 0,
+  "dead_air": false,
+  "duration_dead_air": 0,
+  "call_dropped": false,
+  "customer_voc": "Customer inquired about channel availability and faced issues with some channels.",
+  "closure_timeline": null,
+  "call_category": [
+    "channel related"
+  ],
+  "sub_call_category": [
+    "channel inquiry"
+  ],
+  "qrc_category": [
+    "query"
+  ],
+  "field_request_asked": false,
+  "error_codes_mentioned": [],
+  "customer_know_the_error_code": false,
+  "issue_resolved": false,
+  "resolution_turn_around_time": 0,
+  "follow_up_required": true,
+  "customer_confirmation_for_resolution": false,
+  "offer_pitched": false,
+  "no_times_offer_pitched": 0,
+  "customer_reaction_to_offer": "neutral",
+  "offer_category": [
+    "others"
+  ],
+  "offer_names_pitched": [],
+  "promotion_of_ott": false,
+  "recharge_accepted": false,
+  "recharge_delayed_reason": [],
+  "promise_of_payment": false,
+  "channel_mentioned": [
+    "624"
+  ],
+  "name_of_competitor": [],
+  "d_i_y_pitched": false,
+  "pay_later_requested": false,
+  "pay_later_provided": false,
+  "channel_addition_intended": false,
+  "channel_deletion_intended": false,
+  "charges_customer_refused": false,
+  "charges_customer_refused_reason": "",
+  "no_of_speakers": 2,
+  "first_call_resolution": false,
+  "call_category_remark": "",
+  "channel_category": [],
+  "price_mentioned": 0.0,
+  "is_offer_purchased": false,
+  "offer_purchased": "",
+  "change_in_fmr": 0,
+  "technician_competence": false,
+  "customer_satisfaction_over_technician_visit": "",
+  "technician_behaviour": "",
+  "customer_technician_complain": "",
+  "billing_mode": "",
+  "waivers_requested": false,
+  "waivers_offered": false,
+  "waiver_type": "",
+  "promotion_of_products": false,
+  "competitor_mentioned": false,
+  "qrc_category_remark": "",
+  "multiple_call_mentioned": false,
+  "visit_charges_refused": false,
+  "complaining_about_FMR": false,
+  "watcho_related_issues": false,
+  "app_related_issues": false,
+  "repeat_call_number": 0,
+  "sub_sub_category": [],
+  "processing_time_seconds": 151.03
+}

@@ -1,0 +1,893 @@
+{
+  "audio_path": "C:\\Users\\Parth garg\\OneDrive\\Desktop\\GPT-Opticall\\test_input\\39469950409009479.mp3",
+  "transcriptions": {
+    "segments": [
+      {
+        "start": "00:01.684",
+        "end": "00:02.034",
+        "text": "No,",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:02.084",
+        "end": "00:02.534",
+        "text": "thank you.",
+        "speaker": "agent"
+      },
+      {
+        "start": "00:05.684",
+        "end": "00:10.434",
+        "text": "No, I did not start some channels from which two or three channels did not start.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:15.764",
+        "end": "00:20.714",
+        "text": "Asthaasva Malaherejanal mein iswaar hai male is upay aaroos milik ka puchhara hoga.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "00:20.714",
+        "end": "00:31.464",
+        "text": "Nahīn nahīn mere paint ke duwaya to kuch paint nahīn aa rahe the to paint bhi chalu kar gaye unhone kuch do teen jahaar abhī chalu nahīn hai aur paint bhi itna mahanga ho gaya.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:36.664",
+        "end": "00:42.114",
+        "text": "Asthaasva ki liye maapī chukā to susvāiyā check kar lete hai usse pahle main ja sakte huin ki sanheshan kis ke naam par hai.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "00:42.612",
+        "end": "00:43.112",
+        "text": "Money.",
+        "speaker": "customer"
+      },
+      {
+        "start": "00:44.062",
+        "end": "00:45.062",
+        "text": "money is the number.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "00:45.762",
+        "end": "00:47.612",
+        "text": "leave a little space for the number.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:00.362",
+        "end": "01:01.512",
+        "text": "you started the bus, right?",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:01.562",
+        "end": "01:03.162",
+        "text": "you started it yourself. did you call the bus to check the customer?",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:04.912",
+        "end": "01:05.662",
+        "text": "Yes, yes.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:25.588",
+        "end": "01:37.588",
+        "text": "Jaise main check kar pa raha hai aapne aaj hi karvaya hai jo aapka praayam plex hindī esṭī yē vāla nā philpeka aapne check karvaya tha jī.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:39.838",
+        "end": "01:43.788",
+        "text": "Ab is vakat mein kya aaraha hai sarkoi bhī nahīn channel chal raha hai koun.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:43.788",
+        "end": "01:48.288",
+        "text": "Nahīn do chainal mein aa rahe hain yah kalr ke plex esṭī.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:49.638",
+        "end": "01:52.288",
+        "text": "Se koun se channel nahīn aa raha hai mujhse bata bhi nahīn check kar lete hai par.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "01:52.884",
+        "end": "01:56.284",
+        "text": "Yē kalr sinchleks ejjī 382.",
+        "speaker": "customer"
+      },
+      {
+        "start": "01:59.384",
+        "end": "02:01.334",
+        "text": "Barātēnā hai ham log yē.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:01.834",
+        "end": "02:04.084",
+        "text": "300 barātēnā nahīn aa raha hai.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "02:04.384",
+        "end": "02:08.034",
+        "text": "Hainḍa pikṭar ejjī 382 barātēnā hai ham log yē.",
+        "speaker": "customer"
+      },
+      {
+        "start": "02:08.784",
+        "end": "02:10.584",
+        "text": "Thōḍā sā mere jastrāin kā banī rahī hai.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "02:26.996",
+        "end": "02:27.746",
+        "text": "Kliš u bara.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "02:58.228",
+        "end": "02:59.828",
+        "text": "Senaika Naamadhai.",
+        "speaker": "chief technician"
+      },
+      {
+        "start": "03:00.000",
+        "end": "03:01.400",
+        "text": "What did you say colors",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:08.050",
+        "end": "03:11.850",
+        "text": "A channel number 312 is color simplex HD.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:14.450",
+        "end": "03:20.750",
+        "text": "A channel is there, a channel is there, and pixel HD channel number 312 is first.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:22.850",
+        "end": "03:26.100",
+        "text": "It is not working, it will be on in 15 minutes.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:26.580",
+        "end": "03:29.030",
+        "text": "But it is not working, it is not working.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:36.330",
+        "end": "03:48.730",
+        "text": "This picture is available here, HD is also available, it is working fine, 295, 305, it is working fine.",
+        "speaker": "agent"
+      },
+      {
+        "start": "03:50.230",
+        "end": "03:53.930",
+        "text": "It is not coming, it is not coming.",
+        "speaker": "customer"
+      },
+      {
+        "start": "03:54.964",
+        "end": "04:00.214",
+        "text": "Is MTV HD available?",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:00.864",
+        "end": "04:04.614",
+        "text": "Your channel is available on 108. Check it.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:05.514",
+        "end": "04:06.264",
+        "text": "108?",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:07.914",
+        "end": "04:08.314",
+        "text": "MTV.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:08.314",
+        "end": "04:08.514",
+        "text": "Is it?",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:08.514",
+        "end": "04:09.914",
+        "text": "HD. Yes, yes.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:11.764",
+        "end": "04:14.664",
+        "text": "Is there any channel on 108?",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:15.264",
+        "end": "04:18.464",
+        "text": "Is channel 108 not available?",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:18.964",
+        "end": "04:21.514",
+        "text": "Is 307 available after 307?",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:22.516",
+        "end": "04:22.616",
+        "text": "Yes.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:22.616",
+        "end": "04:22.916",
+        "text": "Please.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:22.916",
+        "end": "04:23.116",
+        "text": "Is it old?",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:23.116",
+        "end": "04:23.166",
+        "text": "Yes.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:23.166",
+        "end": "04:23.516",
+        "text": "It is.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:23.516",
+        "end": "04:29.816",
+        "text": "It is not working, it is not working, it is channel 10 plus 30.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:31.766",
+        "end": "04:34.116",
+        "text": "It is working fine, it is working fine.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:35.966",
+        "end": "04:38.866",
+        "text": "Channel 504 is available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:42.816",
+        "end": "04:46.766",
+        "text": "It is available on 504.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:48.340",
+        "end": "04:49.690",
+        "text": "Yes, it is.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:49.690",
+        "end": "04:52.240",
+        "text": "It is available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:52.240",
+        "end": "04:52.440",
+        "text": "Is it?",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:52.440",
+        "end": "04:53.340",
+        "text": "Yes.",
+        "speaker": "agent"
+      },
+      {
+        "start": "04:55.340",
+        "end": "04:57.240",
+        "text": "It is not available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "04:57.240",
+        "end": "05:00.340",
+        "text": "It is not available, it is not available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:00.340",
+        "end": "05:02.590",
+        "text": "It is not available, it is not available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "05:02.590",
+        "end": "05:05.440",
+        "text": "It is not available, it is not available.",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:05.440",
+        "end": "05:16.440",
+        "text": "It is not available, it is not available, it is not available, it is not available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "05:17.556",
+        "end": "05:19.556",
+        "text": "Colours infant HD.",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:20.206",
+        "end": "05:23.506",
+        "text": "English Colours. You know it's English.",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:26.506",
+        "end": "05:28.456",
+        "text": "It is not working.",
+        "speaker": "customer"
+      },
+      {
+        "start": "05:32.506",
+        "end": "05:32.706",
+        "text": "Sir,",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:32.756",
+        "end": "05:35.306",
+        "text": "the data is very good.",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:45.428",
+        "end": "05:47.628",
+        "text": "It is working fine.",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:47.728",
+        "end": "05:50.478",
+        "text": "Channel 307 is available.",
+        "speaker": "customer"
+      },
+      {
+        "start": "05:50.528",
+        "end": "05:51.228",
+        "text": "307.",
+        "speaker": "customer"
+      },
+      {
+        "start": "05:51.228",
+        "end": "05:53.928",
+        "text": "It is working fine.",
+        "speaker": "agent"
+      },
+      {
+        "start": "05:55.778",
+        "end": "05:58.828",
+        "text": "It is available on HD and 305.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:00.000",
+        "end": "06:03.500",
+        "text": "Hello, is this Dish TV?",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:05.350",
+        "end": "06:07.850",
+        "text": "Which service are you referring to?",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:09.150",
+        "end": "06:09.800",
+        "text": "Yes.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:12.600",
+        "end": "06:14.250",
+        "text": "I want to activate my Dish TV plan.",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:17.650",
+        "end": "06:19.500",
+        "text": "I have a subscription for one month.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:27.188",
+        "end": "06:28.338",
+        "text": "It will cost you ₹22.43 including GST.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:35.138",
+        "end": "06:48.238",
+        "text": "Your activation will be done within 30 days. Your plan will be activated on day one.",
+        "speaker": "agent"
+      },
+      {
+        "start": "06:49.438",
+        "end": "06:50.938",
+        "text": "Is there any additional charge?",
+        "speaker": "customer"
+      },
+      {
+        "start": "06:52.052",
+        "end": "07:00.102",
+        "text": "No, there are no additional charges for the first month.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:00.102",
+        "end": "07:00.602",
+        "text": "Okay.",
+        "speaker": "customer"
+      },
+      {
+        "start": "07:00.602",
+        "end": "07:00.702",
+        "text": "Yes.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:00.702",
+        "end": "07:04.402",
+        "text": "Please provide me with your Dish TV account number.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:05.952",
+        "end": "07:08.702",
+        "text": "I will check the details for you.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:11.102",
+        "end": "07:14.902",
+        "text": "Please hold on for a moment.",
+        "speaker": "agent"
+      },
+      {
+        "start": "07:18.420",
+        "end": "07:20.700",
+        "text": "You have put the customer on hold.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "07:13.674",
+        "end": "07:15.174",
+        "text": "You have put the customer on hold.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "07:48.628",
+        "end": "07:50.278",
+        "text": "You have put the customer on hold.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "08:01.478",
+        "end": "08:03.178",
+        "text": "You have put the customer on hold.",
+        "speaker": "senior agent"
+      },
+      {
+        "start": "09:03.700",
+        "end": "09:05.350",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:20.400",
+        "end": "09:21.900",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:38.954",
+        "end": "09:40.454",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "09:51.404",
+        "end": "09:52.954",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "10:13.908",
+        "end": "10:15.558",
+        "text": "You have put the customer on hold.",
+        "speaker": "agent"
+      },
+      {
+        "start": "10:19.158",
+        "end": "10:20.208",
+        "text": "Sorry about it.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:21.558",
+        "end": "10:22.458",
+        "text": "I'll give her a little.",
+        "speaker": "technician"
+      },
+      {
+        "start": "10:22.608",
+        "end": "10:23.158",
+        "text": "No problem.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:23.208",
+        "end": "10:24.258",
+        "text": "It's been long enough. Sorry,",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:24.508",
+        "end": "10:25.208",
+        "text": "sir.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:25.258",
+        "end": "10:27.058",
+        "text": "Sir, I'm processing. It's taking a lot of time.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:27.158",
+        "end": "10:28.058",
+        "text": "You're probably getting married.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:29.008",
+        "end": "10:29.358",
+        "text": "Okay.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:30.208",
+        "end": "10:30.608",
+        "text": "Yes.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:30.658",
+        "end": "10:31.858",
+        "text": "I'm processing it.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:31.958",
+        "end": "10:33.908",
+        "text": "What you have logged in today,",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:34.058",
+        "end": "10:36.508",
+        "text": "I'm taking your advanced request.",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:39.040",
+        "end": "10:39.990",
+        "text": "This is the request,",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:40.140",
+        "end": "10:41.340",
+        "text": "This is the activation request,",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:41.390",
+        "end": "10:42.490",
+        "text": "This is for the service,",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:42.890",
+        "end": "10:45.140",
+        "text": "This is after 24 hours, it's fine,",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:45.240",
+        "end": "10:49.290",
+        "text": "You can still receive the service, it's still fine,",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:49.390",
+        "end": "10:53.440",
+        "text": "Your previous service will be retained,",
+        "speaker": "customer"
+      },
+      {
+        "start": "10:53.490",
+        "end": "10:56.740",
+        "text": "Right, that will be 305,",
+        "speaker": "customer"
+      },
+      {
+        "start": "11:08.564",
+        "end": "11:09.314",
+        "text": "I may need it. Madam,",
+        "speaker": "technician"
+      },
+      {
+        "start": "11:09.414",
+        "end": "11:10.164",
+        "text": "just talk to her.",
+        "speaker": "technician"
+      },
+      {
+        "start": "11:11.364",
+        "end": "11:12.064",
+        "text": "I am launching it, sir,",
+        "speaker": "customer"
+      },
+      {
+        "start": "11:12.164",
+        "end": "11:14.164",
+        "text": "I am processing it, sir, it's taking a lot of time.",
+        "speaker": "customer"
+      },
+      {
+        "start": "11:36.628",
+        "end": "11:36.778",
+        "text": "Bravo,",
+        "speaker": "technician"
+      },
+      {
+        "start": "11:36.828",
+        "end": "11:37.328",
+        "text": "Bandardo.",
+        "speaker": "technician"
+      },
+      {
+        "start": "11:57.278",
+        "end": "11:59.528",
+        "text": "I am saying this is the request for the service.",
+        "speaker": "customer"
+      },
+      {
+        "start": "12:07.508",
+        "end": "12:16.258",
+        "text": "Your service installation is being done by Super Dialis for the installation.",
+        "speaker": "agent"
+      },
+      {
+        "start": "12:18.908",
+        "end": "12:21.158",
+        "text": "I am doing the installation for the service.",
+        "speaker": "agent"
+      },
+      {
+        "start": "12:36.372",
+        "end": "12:40.222",
+        "text": "The product is a simple HD installation.",
+        "speaker": "customer"
+      },
+      {
+        "start": "12:41.322",
+        "end": "12:43.572",
+        "text": "This is the team setup.",
+        "speaker": "agent"
+      },
+      {
+        "start": "12:45.022",
+        "end": "12:45.672",
+        "text": "So, it is.",
+        "speaker": "customer"
+      },
+      {
+        "start": "12:51.722",
+        "end": "13:02.572",
+        "text": "Your installation is being done by Super Dialis for the installation. The GST for your installation is ₹63,000.",
+        "speaker": "agent"
+      },
+      {
+        "start": "13:03.732",
+        "end": "13:04.632",
+        "text": "You will receive it soon.",
+        "speaker": "customer"
+      },
+      {
+        "start": "13:05.082",
+        "end": "13:05.882",
+        "text": "Thank you, sir.",
+        "speaker": "agent"
+      },
+      {
+        "start": "13:06.032",
+        "end": "13:06.932",
+        "text": "Thank you very much.",
+        "speaker": "agent"
+      },
+      {
+        "start": "13:36.916",
+        "end": "13:41.066",
+        "text": "Your total installation cost is ₹63,000.",
+        "speaker": "agent"
+      },
+      {
+        "start": "13:41.816",
+        "end": "13:42.666",
+        "text": "For the installation.",
+        "speaker": "agent"
+      },
+      {
+        "start": "13:42.666",
+        "end": "13:48.766",
+        "text": "The installation will be done by the same team that is currently working on your installation.",
+        "speaker": "customer"
+      },
+      {
+        "start": "13:48.766",
+        "end": "13:55.966",
+        "text": "No, sir, your installation will be done by the same team that is currently working on your installation.",
+        "speaker": "agent"
+      },
+      {
+        "start": "13:55.966",
+        "end": "14:03.466",
+        "text": "I am saying this is the installation that is being done by the same team that is currently working on your installation.",
+        "speaker": "customer"
+      },
+      {
+        "start": "14:04.084",
+        "end": "14:07.184",
+        "text": "What is the example of the same team?",
+        "speaker": "customer"
+      },
+      {
+        "start": "14:08.184",
+        "end": "14:09.684",
+        "text": "Let me tell you once.",
+        "speaker": "customer"
+      },
+      {
+        "start": "14:09.684",
+        "end": "14:22.284",
+        "text": "If you are getting the same service, then you will be charged ₹672 for the installation.",
+        "speaker": "agent"
+      },
+      {
+        "start": "14:23.784",
+        "end": "14:32.634",
+        "text": "This is quite expensive, isn't it?",
+        "speaker": "customer"
+      },
+      {
+        "start": "14:33.492",
+        "end": "14:37.242",
+        "text": "This is the same service that is being provided.",
+        "speaker": "agent"
+      },
+      {
+        "start": "14:38.392",
+        "end": "14:39.992",
+        "text": "What is being provided?",
+        "speaker": "customer"
+      },
+      {
+        "start": "14:39.992",
+        "end": "14:51.742",
+        "text": "The installation is being done by the same team that is currently working on your installation.",
+        "speaker": "agent"
+      },
+      {
+        "start": "14:52.492",
+        "end": "14:53.742",
+        "text": "How is the installation being done?",
+        "speaker": "customer"
+      },
+      {
+        "start": "15:00.000",
+        "end": "15:00.850",
+        "text": "Thank you for joining us.",
+        "speaker": "agent"
+      },
+      {
+        "start": "15:01.650",
+        "end": "15:03.800",
+        "text": "This is a simple installation.",
+        "speaker": "customer"
+      },
+      {
+        "start": "15:04.050",
+        "end": "15:05.350",
+        "text": "Come and get your applause.",
+        "speaker": "agent"
+      },
+      {
+        "start": "15:12.150",
+        "end": "15:24.700",
+        "text": "A genuine system is being installed. It is a simple installation. If you need assistance, please let me know. The installation will be done by the same team that is currently working on your installation.",
+        "speaker": "customer"
+      },
+      {
+        "start": "15:28.180",
+        "end": "15:29.730",
+        "text": "Yes, even after death.",
+        "speaker": "customer"
+      },
+      {
+        "start": "16:12.852",
+        "end": "16:14.652",
+        "text": "Sir, is anyone else with you?",
+        "speaker": "customer"
+      },
+      {
+        "start": "16:16.102",
+        "end": "16:16.652",
+        "text": "No one.",
+        "speaker": "agent"
+      },
+      {
+        "start": "16:17.252",
+        "end": "16:23.802",
+        "text": "Sir, the installation will be done by the same team that is currently working on your installation. Is everything alright? Can I assist you with anything else?",
+        "speaker": "customer"
+      }
+    ]
+  },
+  "call_summary": "The customer inquired about the installation process, and the agent confirmed that the same team would handle it. The customer also asked if anyone else was present during the call.",
+  "issue_resolved": "yes",
+  "speakers_identified": [
+    "agent",
+    "customer"
+  ],
+  "language_used": "English",
+  "sentiment": "neutral",
+  "total_segments": 8,
+  "processing_time_seconds": 750.44
+}
