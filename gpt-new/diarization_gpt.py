@@ -63,7 +63,9 @@ class DiarizationProcessor:
             self.logger.info(f"Using primary model: {self.model_name}")
             self.logger.info(f"Using mini model: {self.model_name_mini}")
         
-        self.AUDIO_CHUNKING_OFFSET = 3000
+        # 2-minute chunking window (in milliseconds)
+        # Reduced from 5 to 2 minutes to prevent JSON truncation
+        self.AUDIO_CHUNKING_OFFSET = 120 * 1000
         self.call_id = message["call_id"]
         self.divisions = list(message["call_divisions"])
         
@@ -250,6 +252,75 @@ class DiarizationProcessor:
                 total_delay = delay + jitter
                 time.sleep(total_delay)
 
+    def _extract_json(self, text: str) -> dict:
+        """
+        Robustly extract JSON from a string that might contain markdown markers
+        or extra text before/after the actual JSON object.
+        Includes repair logic for truncated JSON.
+        """
+        if not text:
+            return {}
+
+        # 1. Clean up potential markdown code blocks
+        cleaned = text.strip()
+        if cleaned.startswith("```"):
+            # Remove opening ```json or ```
+            cleaned = re.sub(r'^```(?:json)?\s*', '', cleaned)
+            # Remove closing ```
+            cleaned = re.sub(r'\s*```$', '', cleaned)
+        
+        cleaned = cleaned.strip()
+
+        # 2. Try direct load
+        try:
+            return json.loads(cleaned)
+        except json.JSONDecodeError:
+            pass
+
+        # 3. Handle truncation - attempt to "repair" the JSON
+        # This is common if the LLM hits output token limits
+        repaired = cleaned
+        
+        # If it ends inside a string, close the quote
+        if repaired.count('"') % 2 != 0:
+            repaired += '"'
+            
+        # Add closing brackets in correct order
+        stack = []
+        for char in repaired:
+            if char == '{':
+                stack.append('}')
+            elif char == '[':
+                stack.append(']')
+            elif char == '}':
+                if stack and stack[-1] == '}':
+                    stack.pop()
+            elif char == ']':
+                if stack and stack[-1] == ']':
+                    stack.pop()
+        
+        # Close remaining brackets from inside out
+        if stack:
+            repaired += "".join(reversed(stack))
+            
+        try:
+            return json.loads(repaired)
+        except json.JSONDecodeError:
+            pass
+
+        # 4. Find first { and last }
+        try:
+            start_idx = cleaned.find('{')
+            end_idx = cleaned.rfind('}')
+            if start_idx != -1 and end_idx != -1 and end_idx > start_idx:
+                json_part = cleaned[start_idx : end_idx + 1]
+                return json.loads(json_part)
+        except json.JSONDecodeError:
+            pass
+
+        # 5. If all fails, raise original or custom error
+        raise ValueError(f"Could not parse JSON from response. Content snippet: {cleaned[:200]}...{cleaned[-200:] if len(cleaned)>200 else ''}")
+
     def timestamp_to_seconds(self, timestamp: str) -> float:
         """Convert a timestamp string like 'MM:SS.mmm' to seconds."""
         minutes, rest = timestamp.split(":")
@@ -294,26 +365,27 @@ class DiarizationProcessor:
             response = self.client.audio.transcriptions.create(
                 model="gpt-4o-transcribe-diarize",
                 file=audio_file,
-                response_format="verbose_json"
+                response_format="diarized_json"
             )
         
-        # Verbose JSON gives us segments with start, end, text, and speaker
+        # Verbose/Diarized JSON gives us segments with start, end, text, and speaker
         result = {"segments": []}
-        if hasattr(response, 'segments'):
-            for seg in response.segments:
-                result["segments"].append({
-                    "start": seg.get("start"),
-                    "end": seg.get("end"),
-                    "text": seg.get("text"),
-                    "speaker": seg.get("speaker")
-                })
+        segments_src = None
+
+        if hasattr(response, "segments"):
+            segments_src = response.segments
         elif isinstance(response, dict) and "segments" in response:
-            for seg in response["segments"]:
+            segments_src = response["segments"]
+
+        if segments_src:
+            for seg in segments_src:
+                # Handle both object attributes and dict keys
+                get = seg.get if isinstance(seg, dict) else lambda k, d=None: getattr(seg, k, d)
                 result["segments"].append({
-                    "start": seg.get("start"),
-                    "end": seg.get("end"),
-                    "text": seg.get("text"),
-                    "speaker": seg.get("speaker")
+                    "start":   get("start"),
+                    "end":     get("end"),
+                    "text":    get("text"),
+                    "speaker": get("speaker"),
                 })
 
         if self.logger:
@@ -461,8 +533,16 @@ class DiarizationProcessor:
             response_format={"type": "json_object"}
         )
         
-        content = response.choices[0].message.content
-        result_data = json.loads(content)
+        raw_content = response.choices[0].message.content
+        try:
+            result_data = self._extract_json(raw_content)
+        except Exception as e:
+            if self.logger:
+                self.logger.error(f"Chunk {idx}: JSON parsing failed.")
+                self.logger.error(f"Raw response head: {raw_content[:500]}")
+                self.logger.error(f"Raw response tail: {raw_content[-500:]}")
+            raise
+
         json_data = result_data.get("segments", [])
         
         # Store translated diarized segments for field extraction
@@ -600,10 +680,21 @@ class DiarizationProcessor:
             response_format={"type": "json_object"}
         )
         
-        content = response.choices[0].message.content.lower()
-        extract_data = self.output_parser[extract_model].parse(content)
-        
-        return extract_data
+        content = response.choices[0].message.content
+        try:
+            # Use robust extraction even for Pydantic parsing
+            json_data = self._extract_json(content)
+            extract_data = self.output_parser[extract_model].parse(json.dumps(json_data))
+            return extract_data
+        except Exception as e:
+            if self.logger:
+                self.logger.error(f"Field extraction JSON parsing failed: {e}")
+                self.logger.error(f"Raw content head: {content[:500]}")
+            # Fallback for structured output
+            try:
+                return self.output_parser[extract_model].parse(content)
+            except:
+                raise e
 
     def convert_to_boolean(self, value):
         """Convert string boolean values to proper boolean values."""
