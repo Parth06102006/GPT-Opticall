@@ -39,14 +39,6 @@ from gpt.schemas import (AgentMetricsAudio,
     CallMetricsTranscriptResponse,
     TranscriptionsResponse)
 
-# Supported Indian languages for audio processing
-SUPPORTED_INDIAN_LANGUAGES = [
-    "hindi", "tamil", "telugu", "kannada", "malayalam",
-    "bengali", "marathi", "gujarati", "punjabi", "urdu",
-    "odia", "assamese", "konkani", "maithili", "dogri",
-    "bodo", "santali", "kashmiri", "nepali", "sindhi",
-    "manipuri", "english"
-]
 
 class DiarizationProcessor:
     def __init__(self, message, metadata_path, audio_path, logger=None):
@@ -399,37 +391,61 @@ class DiarizationProcessor:
         # ============================================================
         # STEP 2: GPT-4o-mini — Translation + Semantic Role Mapping + Formatting
         # ============================================================
+        system_prompt = f"""
+        **IMPORTANT: You are in a call centre for a brand called Dish Tv, where your job is to transcribe the call recordings.**
+        **IMPORTANT: You are operating in India only, so you need to use the ₹ symbol for rupees. Wherever you encounter any currency reference, you must use the ₹ symbol (Indian Rupee symbol) instead of any other currency symbols.**
+        The following is a list of nouns and terms that are commonly used in the call recordings:
+        {noun_corpus}
+        Please make sure to use the correct noun and term in the transcription.
+        """
+        
         prompt = f"""
-        Below is a raw transcription with segments containing timestamps (in float seconds) and speaker labels (speaker_0, speaker_1, etc.).
-        
-        **YOUR TASKS:**
-        1. **Translate** all text to English.
-        2. **Map speakers** to semantic roles based on context:
-           - agent (person representing Dish TV)
-           - customer (person seeking help)
-           - technician (on-ground service person)
-           - senior_agent (provides further assistance)
-           - chief_technician (manages other technicians)
-           - recorded_audio (music, IVR, ringtone, etc.)
-        3. **Convert timestamps** to MM:SS.MS format (e.g., 25.452 -> "00:25.452")
-        4. **Maintain consistency** and keep original segment boundaries.
+        **IMPORTANT : I want the translation in english language Only.**\n\n\n
+        **Make sure wherever the brand name Dish TV is mentioned, you should use the correct brand name. please do not mis-spell or convert it to any other name.**
 
-        **RAW TRANSCRIPTION:**
-        ```json
-        {json.dumps(raw_segments, indent=2)}
-        ```
+        Your role is to identify the speaker in the call like agent, customer, technician, etc.
+        Identify and assign unique speaker labels (e.g., agent, customer, senior agent, technician, chief technician) to each distinct voice in the call.
         
-        Return the output strictly as a JSON object:
+        **IMPORTANT: You must assign a unique speaker label to each distinct voice in the call.**
+        Different voices can be distinguished by variations in pitch, frequency, intensity, timbre, speaking rate, accent, and vocal characteristics.
+        Pay careful attention to voice changes that may indicate a new speaker joining the conversation.
+        Maintain consistent speaker identification on the basis of the voice characteristics and context throughout the entire conversation - once a speaker is labeled, use the same label for all their segments.
+        
+        
+        Agent means a person who is representing the brand and play a central role in providing service to the customer. And interact with chief technician or technician to arrange the on ground service.
+        Customer means a person who wants to resolve their issue.
+        Technician means a person who is representing the brand and trying to resolve the issue by providing the on ground service.
+        **Chief Technician means a senior technician who manages other technicians and coordinates between customers and agents.**
+        Recorded audio means any recorded audio(music, song, caller tune, ring tone, background music, voice mail, etc.) in the call.
+        When additional participants join the call, they should be identified as senior agent,technician, chief technician, or other call center personnel based on their role and context in the conversation.
+
+        Senior agent means a person who is representing the brand and play a central role in providing further assistance to the customer as current agent is not able to resolve the issue. Generally senior agent to transfer the call to them.
+        
+        Translate this audio to English language only.
+        Avoid use of native language words - only English words are needed. Convert all non-English words to their English equivalents.
+        Ensure to caption all the words in the audio (Do not ignore any word).
+        Ensure proper punctuation of the sentences.
+        Also break the sentence when the speaker changes.
+        If nothing is spoken at certain time intervals then ignore those time intervals.
+
+        Return the output strictly as a JSON array of objects using the below format:
         ```json
-        {{"segments": [
-            {{
-                "start": "MM:SS.MS",
-                "end": "MM:SS.MS",
-                "text": "English translation",
-                "speaker": "semantic_role"
-            }}
-        ]}}
+        {{"segments":
+            [
+                {{
+                "start": "MM:SS.MS" in string, Example: "00:25.452"
+                "end": "MM:SS.MS" in string, Example: "01:01.197"
+                "text": "Translation in english script",
+                "speaker": "agent", "customer", "technician", "etc."
+                }}
+            ]
+        }}
         ```
+        **IMPORTANT: Make Sure Time Start and End are in the format of MM:SS.MS only. Do not try to be over smart and convert it to HH:MM:SS.MS. or any other format.**
+        Only return the pure JSON array inside triple backticks and nothing else.
+
+        RAW TRANSCRIPTION:
+        {json.dumps(raw_segments, indent=2)}
         """
         
         if past_reference:
@@ -437,7 +453,10 @@ class DiarizationProcessor:
 
         response = self.client.chat.completions.create(
             model=self.model_name_mini,
-            messages=[{"role": "user", "content": prompt}],
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": prompt}
+            ],
             temperature=0,
             response_format={"type": "json_object"}
         )
